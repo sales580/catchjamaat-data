@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T18:45:28Z",
+ "generated": "2026-11-20T19:45:08Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -453,8 +453,8 @@
   "masjid-e-aqsa": {
    "status": "auto",
    "source": "https://www.masjidaqsabrampton.org/",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-20",
+   "expires": "2026-12-04",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -481,7 +481,8 @@
     "13:15",
     "14:00",
     "14:45"
-   ]
+   ],
+   "note": " | re-read OK on 2026-11-20"
   },
   "scarborough-muslim-association-jame-abu-bakr-sid": {
    "status": "auto",
@@ -894,7 +895,7 @@
     "12:30",
     "13:30"
    ],
-   "note": " | re-read OK on 2026-11-20 (changed: fajr 06:30, maghrib 16:55)"
+   "note": " | re-read OK on 2026-11-20"
   },
   "abu-huraira-centre": {
    "status": "auto",
@@ -923,7 +924,7 @@
     "12:30",
     "13:40"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://abuhuraira.org/"
+   "note": "Read by eye on 20 Nov 2026 from https://abuhuraira.org/ | re-read OK on 2026-11-20"
   },
   "north-york-islamic-community-center-nyicc": {
    "status": "auto",
@@ -1125,7 +1126,7 @@
     "13:45",
     "14:30"
    ],
-   "note": " | re-read OK on 2026-11-20 (changed: fajr 06:20)"
+   "note": " | re-read OK on 2026-11-20"
   },
   "masjid-subhan-ajax": {
    "status": "auto",
@@ -1411,7 +1412,7 @@
      "v": "19:00"
     }
    },
-   "note": "Read by eye on 20 Nov 2026 from https://www.iqamah.live/masjid/1652-academy-of-islamic-fiqh-main-street-musalla"
+   "note": "Read by eye on 20 Nov 2026 from https://www.iqamah.live/masjid/1652-academy-of-islamic-fiqh-main-street-musalla | re-read OK on 2026-11-20"
   },
   "al-huda-institute-canada": {
    "status": "auto",
@@ -1500,12 +1501,12 @@
   "dar-al-tawheed-islamic-center": {
    "status": "auto",
    "source": "https://themasjidapp.org/13/prayers",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-20",
+   "expires": "2026-12-04",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:15"
+     "v": "06:30"
     },
     "dhuhr": {
      "t": "fixed",
@@ -1517,7 +1518,7 @@
     },
     "maghrib": {
      "t": "fixed",
-     "v": "17:05"
+     "v": "17:00"
     },
     "isha": {
      "t": "fixed",
@@ -1527,7 +1528,8 @@
    "jummah": [
     "12:30",
     "13:30"
-   ]
+   ],
+   "note": " | re-read OK on 2026-11-20 (changed: fajr 06:30, maghrib 17:00)"
   },
   "islamic-forum-of-canada": {
    "status": "auto",
@@ -1768,12 +1770,12 @@
   "meadowvale-islamic-centre": {
    "status": "auto",
    "source": "https://themasjidapp.org/26/prayers",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-20",
+   "expires": "2026-12-04",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:30"
+     "v": "06:45"
     },
     "dhuhr": {
      "t": "fixed",
@@ -1785,7 +1787,7 @@
     },
     "maghrib": {
      "t": "fixed",
-     "v": "16:58"
+     "v": "16:55"
     },
     "isha": {
      "t": "fixed",
@@ -1796,7 +1798,8 @@
     "12:30",
     "13:15",
     "14:00"
-   ]
+   ],
+   "note": " | re-read OK on 2026-11-20 (changed: fajr 06:45, maghrib 16:55)"
   },
   "mount-pleasant-islamic-centre": {
    "status": "auto",
@@ -2689,8 +2692,8 @@
   "imdadul-islamic-jamat": {
    "status": "auto",
    "source": "https://themasjidapp.org/imdadul",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-20",
+   "expires": "2026-12-04",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -2718,7 +2721,8 @@
     "12:30",
     "12:45",
     "13:20"
-   ]
+   ],
+   "note": " | re-read OK on 2026-11-20"
   },
   "islamic-community-centre-of-milton": {
    "status": "auto",
@@ -2856,12 +2860,12 @@
   "islamic-society-of-vaughan": {
    "status": "auto",
    "source": "https://themasjidapp.org/7680/prayers",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-20",
+   "expires": "2026-12-04",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:11"
+     "v": "06:16"
     },
     "dhuhr": {
      "t": "fixed",
@@ -2873,7 +2877,7 @@
     },
     "maghrib": {
      "t": "fixed",
-     "v": "16:56"
+     "v": "16:53"
     },
     "isha": {
      "t": "fixed",
@@ -2885,7 +2889,8 @@
     "13:00",
     "13:30",
     "14:00"
-   ]
+   ],
+   "note": " | re-read OK on 2026-11-20 (changed: fajr 06:16, maghrib 16:53)"
   },
   "islamic-society-of-york-region": {
    "status": "auto",
@@ -7090,6 +7095,10 @@
      "t": "offset",
      "v": 30
     },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "12:14"
+    },
     "asr": {
      "t": "offset",
      "v": 30
@@ -7097,16 +7106,12 @@
     "isha": {
      "t": "fixed",
      "v": "19:30"
-    },
-    "dhuhr": {
-     "t": "fixed",
-     "v": "12:14"
     }
    },
    "jummah": [
     "12:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://masjidbox.com/prayer-times/imam-ash-shafii-centre | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr"
+   "note": "Read by eye on 20 Nov 2026 from https://masjidbox.com/prayer-times/imam-ash-shafii-centre | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr | re-read OK on 2026-11-20"
   },
   "masjid-taqwa-islamic-society-of-sandy-hill": {
    "status": "auto",
@@ -7961,6 +7966,10 @@
      "t": "offset",
      "v": 16
     },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "12:45"
+    },
     "asr": {
      "t": "fixed",
      "v": "15:30"
@@ -7968,16 +7977,12 @@
     "isha": {
      "t": "fixed",
      "v": "19:30"
-    },
-    "dhuhr": {
-     "t": "fixed",
-     "v": "12:45"
     }
    },
    "jummah": [
     "12:15"
    ],
-   "note": "Read on 2026-11-20 from its page: Friday, November 20, 2026 | 11:21 AM | Prayer times Kitchener Masjid | 1017 Victoria St N, Kitchener | Fajr 6:00 AM Iqamah 6:15 AM | Jumuah 1 12:15 PM Iqamah 12:35 PM | Asr 2:33 PM Iqamah 3:30 PM | Maghrib 4:53 PM Iqamah 4:58 PM | Isha 6:16 PM Iqamah 7:30 PM. Masjidbox page of the masjid: its address matches, its clock equals the real time, dated today; Friday: no Dhuhr row; times with a number of minutes after the start follow the sun: valid 3 days (MAC's own centre page is closed to readers; this Masjidbox page is public) | re-read OK on 2026-11-20 | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr"
+   "note": "Read on 2026-11-20 from its page: Friday, November 20, 2026 | 11:21 AM | Prayer times Kitchener Masjid | 1017 Victoria St N, Kitchener | Fajr 6:00 AM Iqamah 6:15 AM | Jumuah 1 12:15 PM Iqamah 12:35 PM | Asr 2:33 PM Iqamah 3:30 PM | Maghrib 4:53 PM Iqamah 4:58 PM | Isha 6:16 PM Iqamah 7:30 PM. Masjidbox page of the masjid: its address matches, its clock equals the real time, dated today; Friday: no Dhuhr row; times with a number of minutes after the start follow the sun: valid 3 days (MAC's own centre page is closed to readers; this Masjidbox page is public) | re-read OK on 2026-11-20"
   },
   "al-salaam-islamic-centre": {
    "status": "auto",
@@ -8994,6 +8999,10 @@
      "t": "offset",
      "v": 30
     },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "13:00"
+    },
     "asr": {
      "t": "fixed",
      "v": "15:15"
@@ -9001,16 +9010,12 @@
     "isha": {
      "t": "fixed",
      "v": "19:30"
-    },
-    "dhuhr": {
-     "t": "fixed",
-     "v": "13:00"
     }
    },
    "jummah": [
     "12:00"
    ],
-   "note": "Read on 2026-11-20 from its page: Friday, November 20, 2026 | 11:20 AM | Prayer times MAC Masonville Centre | 1737 Richmond St, London | Fajr 6:01 AM Iqamah 6:31 AM | Jumuah 12:00 PM Iqamah 12:30 PM | Asr 2:38 PM Iqamah 3:15 PM | Maghrib 4:58 PM Iqamah 5:05 PM | Isha 6:21 PM Iqamah 7:30 PM. Masjidbox page of the masjid: its address matches, its clock equals the real time, dated today; Friday: no Dhuhr row; times with a number of minutes after the start follow the sun: valid 3 days (MAC's own centre page is closed to readers; this Masjidbox page is public) | re-read OK on 2026-11-20 | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr"
+   "note": "Read on 2026-11-20 from its page: Friday, November 20, 2026 | 11:20 AM | Prayer times MAC Masonville Centre | 1737 Richmond St, London | Fajr 6:01 AM Iqamah 6:31 AM | Jumuah 12:00 PM Iqamah 12:30 PM | Asr 2:38 PM Iqamah 3:15 PM | Maghrib 4:58 PM Iqamah 5:05 PM | Isha 6:21 PM Iqamah 7:30 PM. Masjidbox page of the masjid: its address matches, its clock equals the real time, dated today; Friday: no Dhuhr row; times with a number of minutes after the start follow the sun: valid 3 days (MAC's own centre page is closed to readers; this Masjidbox page is public) | re-read OK on 2026-11-20"
   },
   "mac-hyde-park-centre": {
    "status": "auto",
@@ -9022,6 +9027,10 @@
      "t": "offset",
      "v": 30
     },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "13:00"
+    },
     "asr": {
      "t": "fixed",
      "v": "15:45"
@@ -9029,16 +9038,12 @@
     "isha": {
      "t": "fixed",
      "v": "19:00"
-    },
-    "dhuhr": {
-     "t": "fixed",
-     "v": "13:00"
     }
    },
    "jummah": [
     "12:15"
    ],
-   "note": "Read on 2026-11-20 from its page: Friday, November 20, 2026 | 11:20 AM | Prayer times MAC London | 1175 Hyde Park Road, London | Fajr 6:01 AM Iqamah 6:31 AM | Jumuah 1 12:15 PM Iqamah 12:15 PM | Asr 2:38 PM Iqamah 3:45 PM | Maghrib 4:58 PM Iqamah 5:05 PM | Isha 6:21 PM Iqamah 7:00 PM. Masjidbox page of the masjid: its address matches, its clock equals the real time, dated today; Friday: no Dhuhr row; times with a number of minutes after the start follow the sun: valid 3 days (MAC's own centre page is closed to readers; this Masjidbox page is public) | re-read OK on 2026-11-20 | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr"
+   "note": "Read on 2026-11-20 from its page: Friday, November 20, 2026 | 11:20 AM | Prayer times MAC London | 1175 Hyde Park Road, London | Fajr 6:01 AM Iqamah 6:31 AM | Jumuah 1 12:15 PM Iqamah 12:15 PM | Asr 2:38 PM Iqamah 3:45 PM | Maghrib 4:58 PM Iqamah 5:05 PM | Isha 6:21 PM Iqamah 7:00 PM. Masjidbox page of the masjid: its address matches, its clock equals the real time, dated today; Friday: no Dhuhr row; times with a number of minutes after the start follow the sun: valid 3 days (MAC's own centre page is closed to readers; this Masjidbox page is public) | re-read OK on 2026-11-20"
   },
   "islamic-center-of-brockville": {
    "status": "auto",
@@ -13542,27 +13547,27 @@
      "t": "fixed",
      "v": "06:45"
     },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "13:00"
+    },
     "asr": {
      "t": "fixed",
      "v": "15:15"
-    },
-    "isha": {
-     "t": "fixed",
-     "v": "19:30"
     },
     "maghrib": {
      "t": "offset",
      "v": 10
     },
-    "dhuhr": {
+    "isha": {
      "t": "fixed",
-     "v": "13:00"
+     "v": "19:30"
     }
    },
    "jummah": [
     "13:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://masjidbox.com/prayer-times/islamic-centre-of-northern-ontario | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr"
+   "note": "Read by eye on 20 Nov 2026 from https://masjidbox.com/prayer-times/islamic-centre-of-northern-ontario | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr | re-read OK on 2026-11-20"
   },
   "port-elgin-islamic-centre": {
    "status": "auto",
