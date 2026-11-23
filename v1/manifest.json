@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "generated": "2026-11-23T01:51:49Z",
+  "generated": "2026-11-23T03:57:36Z",
   "files": {
     "mosques": {
       "path": "mosques.json",
-      "bytes": 321872,
-      "sha256": "660da0ccd8330cd66b26a430055b27d77c33a7a85c1e79cb9798e80f0809a40d"
+      "bytes": 318837,
+      "sha256": "f848584402cc68c62cdeb11fd8852f3aa0e91515c210789fa7520f9b3b4d4a2c"
     },
     "iqama": {
       "path": "iqama.json",
-      "bytes": 398613,
-      "sha256": "dc24031f9108f4029c7b12b075f244c42feb7f035ec75e8aceda6ad9a3539af3"
+      "bytes": 400473,
+      "sha256": "901ff218a3058a09858af4e819f5a6ec3ee18aa335471d4b9508597ec1c0b2ed"
     }
   },
   "counts": {
-    "mosques": 1030,
-    "iqamaRecords": 1030
+    "mosques": 1018,
+    "iqamaRecords": 1018
   }
 }
