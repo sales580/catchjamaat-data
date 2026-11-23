@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-23T03:57:36Z",
+ "generated": "2026-11-23T04:14:28Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -6396,32 +6396,7 @@
    "note": "From their ad-din.ca board (Maghrib 4:53 pm from tomorrow). Friday times are the adhan (iqama 1:00, 2:00 and 2:45 pm)"
   },
   "suleymaniye-mosque-education-centre": {
-   "status": "auto",
-   "source": "https://suleymaniyeli.com/",
-   "updated": "2026-11-22",
-   "expires": "2026-12-01",
-   "rules": {
-    "fajr": {
-     "t": "fixed",
-     "v": "06:00"
-    },
-    "dhuhr": {
-     "t": "fixed",
-     "v": "12:30"
-    },
-    "asr": {
-     "t": "fixed",
-     "v": "15:00"
-    },
-    "isha": {
-     "t": "fixed",
-     "v": "20:00"
-    }
-   },
-   "jummah": [
-    "12:30"
-   ],
-   "note": "From the owner's screenshot of their November 2026 table (shown until 1 Dec); Friday: vaaz 12:00, adhan 12:30; their table follows the Fazilet calendar"
+   "status": "unknown"
   },
   "sunni-al-tawakkal-masjid": {
    "status": "unknown"
@@ -9831,9 +9806,6 @@
    "status": "unknown"
   },
   "baitul-badi-ahmadiyya-muslim-jama-at-innisfil": {
-   "status": "unknown"
-  },
-  "baitul-khabir": {
    "status": "unknown"
   },
   "zainabiya-community-centre-zcc": {
@@ -17553,7 +17525,7 @@
     },
     "maghrib": {
      "t": "offset",
-     "v": 7
+     "v": 8
     },
     "isha": {
      "t": "fixed",
@@ -17564,7 +17536,7 @@
     "13:40",
     "14:50"
    ],
-   "note": "Read on 2026-11-22 from its page on the My Masjid app (adhan and iqamah of the week; fajr 06:30 for 7 days; dhuhr 12:30 for 7 days; asr 15:00 for 2 days; maghrib +7 for 7 days; isha 19:30 for 7 days)"
+   "note": "Read on 2026-11-22 from its page on the My Masjid app (adhan and iqamah of the week; fajr 06:30 for 7 days; dhuhr 12:30 for 7 days; asr 15:00 for 2 days; maghrib +8 for 7 days; isha 19:30 for 7 days)"
   },
   "jamia-riyadhul-jannah-jrj-saint-john-mosque": {
    "status": "auto",
