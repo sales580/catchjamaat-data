@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:58:46Z",
+ "generated": "2026-11-25T22:30:37Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -4381,14 +4381,14 @@
     },
     "isha": {
      "t": "fixed",
-     "v": "18:15"
+     "v": "18:30"
     }
    },
    "jummah": [
     "13:00"
    ],
-   "note": "Friday time is the khutbah start (iqamah 1:30 pm) | re-read OK on 2026-11-25 (changed: isha 18:15)",
-   "updatedAt": "16:54"
+   "note": "Friday time is the khutbah start (iqamah 1:30 pm) | checked by eye on 2026-11-25: their page table today: Isha adhan 6:15 PM, iqamah 6:30 PM (also Fajr 6:00/6:15, Dhuhr 12:45/1:00, Asr 3:00/3:15); the 4:54 PM automatic re-read had taken the adhan from the 'Next prayer' banner (changed: isha 18:30 (was 18:15))",
+   "updatedAt": "17:30"
   },
   "anatolia-islamic-centre-north-york": {
    "status": "auto",
