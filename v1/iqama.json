@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T21:56:20Z",
+ "generated": "2026-11-25T21:58:46Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -96,13 +96,14 @@
   "jummah-prayer-hall-bloor-rom": {
    "status": "auto",
    "source": "https://jummahprayerhall.com/bloor",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-25",
+   "expires": "2026-12-09",
    "rules": {},
    "jummah": [
     "12:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://jummahprayerhall.com/bloor"
+   "note": "Read by eye on 20 Nov 2026 from https://jummahprayerhall.com/bloor | checked by eye on 2026-11-25: their page as a browser shows it: Jummah Times, First 12:30 PM to 1:00 PM",
+   "updatedAt": "16:58"
   },
   "masjid-darussalam-islamic-society-of-toronto": {
    "status": "auto",
@@ -3279,8 +3280,8 @@
   "masjid-huzaifah": {
    "status": "auto",
    "source": "https://www.masjidhuzaifah.com/prayertimes",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-25",
+   "expires": "2026-12-09",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -3307,7 +3308,8 @@
     "13:00",
     "14:00"
    ],
-   "note": "Friday times are the khutbah starts (bayan 12:40 pm for the first)"
+   "note": "Friday times are the khutbah starts (bayan 12:40 pm for the first) | checked by eye on 2026-11-25: their own prayer board (dashboard.masjidhuzaifah.com) dated Wed 25 Nov (start / adhan / iqamah): Fajr 6:01/6:20/6:30, Zuhr 12:04/12:45/1:00, Asr 3:00/3:20/3:30, Isha 6:08/7:20/7:30; Jumah 1 bayan 12:40, khutbah 1:00; Jumah 2 khutbah 2:00",
+   "updatedAt": "16:58"
   },
   "masjid-noor-ul-haram": {
    "status": "auto",
@@ -5667,30 +5669,32 @@
   "jummah-prayer-hall-burlington": {
    "status": "auto",
    "source": "http://jummahprayerhall.com/Burlington",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-25",
+   "expires": "2026-12-09",
    "rules": {},
    "jummah": [
     "13:00"
    ],
-   "note": "One Friday prayer, 1:00 to 1:30 pm. Entrance is at the back of the building"
+   "note": "One Friday prayer, 1:00 to 1:30 pm. Entrance is at the back of the building | checked by eye on 2026-11-25: their page as a browser shows it: First 1:00 PM to 1:30 PM, 662 Guelph Line; the entrance is at the back",
+   "updatedAt": "16:58"
   },
   "jummah-prayer-hall-etobicoke": {
    "status": "auto",
    "source": "http://jummahprayerhall.com/etobicoke",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-25",
+   "expires": "2026-12-09",
    "rules": {},
    "jummah": [
     "12:30"
    ],
-   "note": "One Friday prayer, 12:30 to 1:00 pm"
+   "note": "One Friday prayer, 12:30 to 1:00 pm | checked by eye on 2026-11-25: their page as a browser shows it: First 12:30 PM to 1:00 PM, 2 Orianna Dr",
+   "updatedAt": "16:58"
   },
   "jummah-prayer-hall-toronto-financial-district": {
    "status": "auto",
    "source": "https://jummahprayerhall.com/",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-25",
+   "expires": "2026-12-09",
    "rules": {},
    "jummah": [
     "12:15",
@@ -5699,7 +5703,8 @@
     "13:30",
     "14:00"
    ],
-   "note": "Five Friday prayers (Express 12:15, then every 30 minutes). Room 207, use the elevator or stairs. Monday to Thursday: Dhuhr iqamah 1:00 pm, Asr 3:00 pm"
+   "note": "Five Friday prayers (Express 12:15, then every 30 minutes). Room 207, use the elevator or stairs. Monday to Thursday: Dhuhr iqamah 1:00 pm, Asr 3:00 pm | checked by eye on 2026-11-25: their page as a browser shows it: Express 12:15, First 12:30, Second 1:00, Third 1:30, Fourth 2:00; Monday to Thursday Duhr iqamah 1:00 pm, Asr iqamah 3:00 pm",
+   "updatedAt": "16:58"
   },
   "madina-institute-canada": {
    "status": "auto",
@@ -20940,15 +20945,16 @@
   "milton-sports-centre-friday-juma-prayers-of-the-": {
    "status": "auto",
    "source": "https://miltonmasjid.com",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-25",
+   "expires": "2026-12-09",
    "rules": {},
    "jummah": [
     "12:30",
     "13:30",
     "14:15"
    ],
-   "note": "Read by eye on 20 Nov from the masjid's own page (Jumu'ah flyer on the home page, image file named 'Juma-Time-); flyer gives adhan times (English talk starts 20 min earlier); three sessions at the sports centre; HICC sessions 13:00 and 14:00 are a different venue"
+   "note": "Read by eye on 20 Nov from the masjid's own page (Jumu'ah flyer on the home page, image file named 'Juma-Time-); flyer gives adhan times (English talk starts 20 min earlier); three sessions at the sports centre; HICC sessions 13:00 and 14:00 are a different venue | checked by eye on 2026-11-25: the Jumu'ah flyer dated 6 Nov is still the one on the masjid's home page today",
+   "updatedAt": "16:58"
   },
   "hawkesbury-jame-masjid": {
    "status": "auto",
