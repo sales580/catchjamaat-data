@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated": "2026-11-26T21:47:39Z",
+  "generated": "2026-11-26T22:40:17Z",
   "files": {
     "mosques": {
       "path": "mosques.json",
@@ -9,8 +9,8 @@
     },
     "iqama": {
       "path": "iqama.json",
-      "bytes": 492496,
-      "sha256": "c88cdddbb0e677a6a247967dfaa23e18fe9ba13e7de9d25e939fd7292af9f9f5"
+      "bytes": 493475,
+      "sha256": "6458ec1bb8557b43ab52b310c65097e884cefce810f4c7aecc3c5956071d6a28"
     }
   },
   "counts": {

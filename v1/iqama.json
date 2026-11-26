@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T21:47:39Z",
+ "generated": "2026-11-26T22:40:17Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -5970,7 +5970,29 @@
    "status": "unknown"
   },
   "masjid-ali": {
-   "status": "unknown"
+   "status": "auto",
+   "source": "https://masjidali.ca/",
+   "updated": "2026-11-26",
+   "expires": "2026-12-03",
+   "rules": {
+    "fajr": {
+     "t": "fixed",
+     "v": "06:30"
+    },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "13:30"
+    },
+    "asr": {
+     "t": "fixed",
+     "v": "15:50"
+    },
+    "isha": {
+     "t": "fixed",
+     "v": "18:45"
+    }
+   },
+   "note": "Read from their page on 2026-11-26 (no-times pass); the page listed four Friday times that could not be told apart, so no Friday time is stored"
   },
   "masjid-daru-al-ullum": {
    "status": "auto",
@@ -12675,28 +12697,28 @@
   },
   "centre-communautaire-musulman-de-varennes-ccmv-c": {
    "status": "auto",
-   "source": "https://moonode.tv/glassy/DINSCREEN-451917-VARENNES-CANADA-J3X1R3",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "source": "https://masjidbox.com/prayer-times/centre-communautaire-musulman-de-varennes",
+   "updated": "2026-11-26",
+   "expires": "2026-11-29",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:04"
+     "v": "05:55"
     },
     "dhuhr": {
      "t": "fixed",
-     "v": "12:30"
+     "v": "11:56"
     },
     "asr": {
      "t": "fixed",
-     "v": "14:03"
+     "v": "14:08"
     },
     "isha": {
      "t": "fixed",
-     "v": "19:00"
+     "v": "17:57"
     }
    },
-   "note": "Moonode board of the centre read 20 Nov 2026; its Friday card says 1:01 pm (odd minute), so no Jumu'ah time is stored"
+   "note": "Masjidbox page found by name on 2026-11-26 (shows Varennes and their name; clock right). Times follow the athan: re-read nightly"
   },
   "mosquee-chateauguay-centre-culturel-musulman-cha": {
    "status": "auto",
@@ -17077,7 +17099,33 @@
    "status": "unknown"
   },
   "rahmah-centre-inc-regina": {
-   "status": "unknown"
+   "status": "auto",
+   "source": "https://rahmahcentre.com/",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
+   "rules": {
+    "fajr": {
+     "t": "fixed",
+     "v": "07:00"
+    },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "13:30"
+    },
+    "asr": {
+     "t": "fixed",
+     "v": "15:45"
+    },
+    "isha": {
+     "t": "fixed",
+     "v": "20:00"
+    }
+   },
+   "jummah": [
+    "13:15",
+    "13:45"
+   ],
+   "note": "Read from their page on 2026-11-26 (no-times pass)"
   },
   "al-noor-masjid-al-noor-association-regina": {
    "status": "unknown"
