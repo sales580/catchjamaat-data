@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T23:00:50Z",
+ "generated": "2026-11-26T23:14:49Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -21226,6 +21226,34 @@
   },
   "downtown-hyderi-congregation": {
    "status": "unknown"
+  },
+  "institute-of-knowledge-iok-darul-ilm": {
+   "status": "auto",
+   "source": "https://www.iokfoundation.org/",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
+   "rules": {
+    "fajr": {
+     "t": "fixed",
+     "v": "06:25"
+    },
+    "dhuhr": {
+     "t": "fixed",
+     "v": "13:00"
+    },
+    "asr": {
+     "t": "fixed",
+     "v": "15:00"
+    },
+    "isha": {
+     "t": "fixed",
+     "v": "19:45"
+    }
+   },
+   "jummah": [
+    "13:00"
+   ],
+   "note": "Read from the box on their home page on 2026-11-26: Fajr 6:25 AM, Dhuhur 1:00 PM, Asr 3:00 PM, Maghrib sunset, Isha 7:45 PM, Jumu'ah 1:00 PM. Masjid found by the owner"
   }
  }
 }
