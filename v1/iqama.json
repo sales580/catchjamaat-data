@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T22:40:17Z",
+ "generated": "2026-11-26T23:00:50Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -757,8 +757,8 @@
   "international-muslims-organization": {
    "status": "auto",
    "source": "https://imooftoronto.com",
-   "updated": "2026-11-22",
-   "expires": "2026-12-06",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -777,7 +777,7 @@
      "v": "18:30"
     }
    },
-   "note": "From the owner's screenshot of their iqamah times (22 Nov); no Friday time was in it; the adhan is called 10 minutes before the iqamah"
+   "note": "From the owner's screenshot of their page (26 Nov 2026): iqamah Fajr 6:15, Dhuhr 12:40, Asr 3:15, Maghrib 4:45, Isha 6:30 (same as on 22 Nov). No Friday time was in it"
   },
   "darul-hijra-islamic-centre": {
    "status": "auto",
@@ -2714,12 +2714,12 @@
   "imam-bukhari-centre": {
    "status": "auto",
    "source": "https://ahlehadithcanada.org/toronto/",
-   "updated": "2026-11-19",
-   "expires": "2026-11-22",
+   "updated": "2026-11-26",
+   "expires": "2026-11-30",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:20"
+     "v": "06:28"
     },
     "dhuhr": {
      "t": "fixed",
@@ -2727,7 +2727,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:46"
+     "v": "14:42"
     },
     "maghrib": {
      "t": "offset",
@@ -2735,13 +2735,13 @@
     },
     "isha": {
      "t": "fixed",
-     "v": "18:39"
+     "v": "18:36"
     }
    },
    "jummah": [
     "13:00"
    ],
-   "note": "Iqamah times on their prayer board (Masjidal) for 19 Nov; some of them move with the sun, so check again in a few days; Friday prayer 1:00 pm"
+   "note": "From the owner's screenshot of their Masjidal board (26 Nov 2026): Fajr 6:28, Dhuhr 1:00, Asr 2:42, Maghrib 4:53, Isha 6:36; 1st Jumuah 1:00. Fajr, Asr and Isha follow the athan (about +25, +15, +30), so they move a little every few days"
   },
   "imdadul-islamic-jamat": {
    "status": "auto",
@@ -5992,7 +5992,11 @@
      "v": "18:45"
     }
    },
-   "note": "Read from their page on 2026-11-26 (no-times pass); the page listed four Friday times that could not be told apart, so no Friday time is stored"
+   "jummah": [
+    "13:00",
+    "13:30"
+   ],
+   "note": "From the owner's screenshot of their page (26 Nov 2026): iqamah Fajr 6:30, Dhuhr 1:30, Asr 3:50, Isha 6:45; Jummah 1:00 and 1:30. The page's own date still reads Tuesday, October 27, so these may be older than they look"
   },
   "masjid-daru-al-ullum": {
    "status": "auto",
