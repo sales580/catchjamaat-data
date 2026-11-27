@@ -3314,8 +3314,8 @@
   },
   "masjid-huzaifah": {
    "status": "auto",
-   "source": "https://www.masjidhuzaifah.com/prayertimes",
-   "updated": "2026-11-25",
+   "source": "https://dashboard.masjidhuzaifah.com/",
+   "updated": "2026-11-26",
    "expires": "2026-12-09",
    "rules": {
     "fajr": {
@@ -3343,8 +3343,8 @@
     "13:00",
     "14:00"
    ],
-   "note": "Friday times are the khutbah starts (bayan 12:40 pm for the first) | checked by eye on 2026-11-25: their own prayer board (dashboard.masjidhuzaifah.com) dated Wed 25 Nov (start / adhan / iqamah): Fajr 6:01/6:20/6:30, Zuhr 12:04/12:45/1:00, Asr 3:00/3:20/3:30, Isha 6:08/7:20/7:30; Jumah 1 bayan 12:40, khutbah 1:00; Jumah 2 khutbah 2:00",
-   "updatedAt": "16:58"
+   "note": "Friday times are the khutbah starts (bayan 12:40 pm for the first) | checked by eye on 2026-11-25: their own prayer board (dashboard.masjidhuzaifah.com) dated Wed 25 Nov (start / adhan / iqamah): Fajr 6:01/6:20/6:30, Zuhr 12:04/12:45/1:00, Asr 3:00/3:20/3:30, Isha 6:08/7:20/7:30; Jumah 1 bayan 12:40, khutbah 1:00; Jumah 2 khutbah 2:00 | nightly source since 26 Nov 2026: their own board dashboard.masjidhuzaifah.com (dated every day; weekend Isha is a few minutes after the athan and is applied on the day)",
+   "updatedAt": "19:05"
   },
   "masjid-noor-ul-haram": {
    "status": "auto",
