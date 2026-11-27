@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:56:48Z",
+ "generated": "2026-11-27T17:58:53Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -8697,7 +8697,7 @@
    "status": "auto",
    "source": "https://bayshoremasjidweb.wixsite.com/bayshore-masjid",
    "updated": "2026-11-27",
-   "expires": "2026-12-04",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -8731,14 +8731,14 @@
     "12:15",
     "13:00"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://bayshoremasjidweb.wixsite.com/bayshore-masjid | checked by eye on 2026-11-26 from a screenshot of their page: same times | re-read OK on 2026-11-27",
-   "updatedAt": "01:12"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:58"
   },
   "musalla-as-sahaba": {
    "status": "auto",
    "source": "https://masjidbox.com/prayer-times/markaz-at-tawheed",
    "updated": "2026-11-27",
-   "expires": "2026-12-04",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -8760,8 +8760,8 @@
    "jummah": [
     "12:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://masjidbox.com/prayer-times/markaz-at-tawheed | Masjidbox page data read 20 Nov 2026 (Saturday row; the Friday row hides Dhuhr): added dhuhr | checked by a person on 2026-11-26 (batch1): fajr 06:20, asr 14:20 | re-read OK on 2026-11-27",
-   "updatedAt": "01:14"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:58"
   },
   "darul-ummah": {
    "status": "unknown"
@@ -11295,11 +11295,11 @@
    "status": "auto",
    "source": "https://masjidbox.com/prayer-times/timmins-islamic-centre",
    "updated": "2026-11-27",
-   "expires": "2026-11-30",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:21"
+     "v": "06:22"
     },
     "dhuhr": {
      "t": "fixed",
@@ -11307,18 +11307,85 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:55"
+     "v": "14:54"
     },
     "isha": {
      "t": "fixed",
-     "v": "18:14"
+     "v": "18:13"
     }
    },
    "jummah": [
     "13:25"
    ],
-   "note": "Masjidbox page read 20 Nov 2026: Jumuah 1:25 pm (iqamah 1:30); its daily iqamahs are the platform's +5 default, not stored | checked by eye on 2026-11-26 from a screenshot of their page: fajr 06:21, dhuhr 12:18, asr 14:55, isha 18:14 | re-read OK on 2026-11-27",
-   "updatedAt": "01:14"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, asr, isha move with the call to prayer (dated rows to 10 Dec); every time on this board is 5 minutes after the start, which may be the board default",
+   "updatedAt": "12:58",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:23",
+     "asr": "14:54",
+     "isha": "18:13"
+    },
+    "2026-11-29": {
+     "fajr": "06:24",
+     "asr": "14:53",
+     "isha": "18:12"
+    },
+    "2026-11-30": {
+     "fajr": "06:25",
+     "asr": "14:53",
+     "isha": "18:12"
+    },
+    "2026-12-01": {
+     "fajr": "06:26",
+     "asr": "14:52",
+     "isha": "18:11"
+    },
+    "2026-12-02": {
+     "fajr": "06:28",
+     "asr": "14:52",
+     "isha": "18:11"
+    },
+    "2026-12-03": {
+     "fajr": "06:29",
+     "asr": "14:52",
+     "isha": "18:11"
+    },
+    "2026-12-04": {
+     "fajr": "06:30",
+     "asr": "14:51",
+     "isha": "18:10"
+    },
+    "2026-12-05": {
+     "fajr": "06:31",
+     "asr": "14:51",
+     "isha": "18:10"
+    },
+    "2026-12-06": {
+     "fajr": "06:32",
+     "asr": "14:51",
+     "isha": "18:10"
+    },
+    "2026-12-07": {
+     "fajr": "06:33",
+     "asr": "14:51",
+     "isha": "18:10"
+    },
+    "2026-12-08": {
+     "fajr": "06:33",
+     "asr": "14:51",
+     "isha": "18:10"
+    },
+    "2026-12-09": {
+     "fajr": "06:34",
+     "asr": "14:51",
+     "isha": "18:10"
+    },
+    "2026-12-10": {
+     "fajr": "06:35",
+     "asr": "14:51",
+     "isha": "18:10"
+    }
+   }
   },
   "islah-center-icw": {
    "status": "auto",
@@ -11861,12 +11928,12 @@
   "the-message-of-islam-foundation-fondation-du-mes": {
    "status": "auto",
    "source": "https://moonode.tv/glassy/DINSCREEN-485785-MONTREAL-CANADA-H3L2P5",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:01"
+     "v": "06:16"
     },
     "dhuhr": {
      "t": "fixed",
@@ -11884,7 +11951,49 @@
    "jummah": [
     "13:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://moonode.tv/glassy/DINSCREEN-485785-MONTREAL-CANADA-H3L2P5"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:17"
+    },
+    "2026-11-29": {
+     "fajr": "06:18"
+    },
+    "2026-11-30": {
+     "fajr": "06:19"
+    },
+    "2026-12-01": {
+     "fajr": "06:20"
+    },
+    "2026-12-02": {
+     "fajr": "06:21"
+    },
+    "2026-12-03": {
+     "fajr": "06:22"
+    },
+    "2026-12-04": {
+     "fajr": "06:23"
+    },
+    "2026-12-05": {
+     "fajr": "06:24"
+    },
+    "2026-12-06": {
+     "fajr": "06:25"
+    },
+    "2026-12-07": {
+     "fajr": "06:26"
+    },
+    "2026-12-08": {
+     "fajr": "06:27"
+    },
+    "2026-12-09": {
+     "fajr": "06:28"
+    },
+    "2026-12-10": {
+     "fajr": "06:28"
+    }
+   },
+   "updatedAt": "12:58"
   },
   "centre-islamique-de-quebec-et-du-canada-al-baina": {
    "status": "unknown"
@@ -12343,8 +12452,8 @@
   "organisation-de-la-mosquee-noor-e-madina-mosquee": {
    "status": "auto",
    "source": "https://moonode.tv/blue/dinscreen-751788-montreal-canada-h3n-1r",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -12352,7 +12461,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:45"
+     "v": "15:00"
     },
     "isha": {
      "t": "fixed",
@@ -12363,7 +12472,8 @@
     "13:30",
     "14:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://moonode.tv/blue/dinscreen-751788-montreal-canada-h3n-1r"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:58"
   },
   "fondation-du-musulman-al-amin-mosquee-al-amin": {
    "status": "unknown"
@@ -13268,8 +13378,8 @@
   "muslim-community-of-lasalle-communaute-musulmane": {
    "status": "auto",
    "source": "https://www.cmlasalle.org/uploads/2/6/3/7/26371889/novembre_2026.pdf",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-27",
+   "expires": "2026-12-01",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -13292,7 +13402,8 @@
      "v": 9
     }
    },
-   "note": "Read by eye on 20 Nov 2026 from https://www.cmlasalle.org/uploads/2/6/3/7/26371889/novembre_2026.pdf"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; November timetable, ends 30 Nov",
+   "updatedAt": "12:58"
   },
   "centre-culturel-islamique-cheikh-zayed-sheikh-za": {
    "status": "unknown"
@@ -14099,12 +14210,12 @@
   "masjid-al-hak-association-musulmane-de-la-rivier": {
    "status": "auto",
    "source": "https://moonode.tv/glassy/DINSCREEN-189981-SAINTJEROME-CANADA-J7Z5M2",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:02"
+     "v": "06:10"
     },
     "dhuhr": {
      "t": "fixed",
@@ -14112,7 +14223,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:11"
+     "v": "14:07"
     },
     "isha": {
      "t": "fixed",
@@ -14122,7 +14233,62 @@
    "jummah": [
     "12:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://moonode.tv/glassy/DINSCREEN-189981-SAINTJEROME-CANADA-J7Z5M2"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, asr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:11",
+     "asr": "14:07"
+    },
+    "2026-11-29": {
+     "fajr": "06:12",
+     "asr": "14:06"
+    },
+    "2026-11-30": {
+     "fajr": "06:13",
+     "asr": "14:06"
+    },
+    "2026-12-01": {
+     "fajr": "06:14",
+     "asr": "14:06"
+    },
+    "2026-12-02": {
+     "fajr": "06:15",
+     "asr": "14:05"
+    },
+    "2026-12-03": {
+     "fajr": "06:16",
+     "asr": "14:05"
+    },
+    "2026-12-04": {
+     "fajr": "06:17",
+     "asr": "14:05"
+    },
+    "2026-12-05": {
+     "fajr": "06:18",
+     "asr": "14:05"
+    },
+    "2026-12-06": {
+     "fajr": "06:19",
+     "asr": "14:05"
+    },
+    "2026-12-07": {
+     "fajr": "06:20",
+     "asr": "14:04"
+    },
+    "2026-12-08": {
+     "fajr": "06:21",
+     "asr": "14:04"
+    },
+    "2026-12-09": {
+     "fajr": "06:22",
+     "asr": "14:04"
+    },
+    "2026-12-10": {
+     "fajr": "06:22",
+     "asr": "14:04"
+    }
+   },
+   "updatedAt": "12:58"
   },
   "vaudreuil-islamic-community-centre-centre-cultur": {
    "status": "auto",
@@ -18147,11 +18313,11 @@
    "status": "auto",
    "source": "https://al-imancenter.com/",
    "updated": "2026-11-27",
-   "expires": "2026-12-04",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:50"
+     "v": "07:10"
     },
     "dhuhr": {
      "t": "fixed",
@@ -18169,8 +18335,19 @@
    "jummah": [
     "13:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://al-imancenter.com/ | checked by eye on 2026-11-26 from a screenshot of their page: fajr 07:10 | re-read OK on 2026-11-27 (changed: fajr 06:50)",
-   "updatedAt": "01:13"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:58",
+   "days": {
+    "2026-11-28": {
+     "fajr": "07:10"
+    },
+    "2026-11-29": {
+     "fajr": "07:10"
+    },
+    "2026-11-30": {
+     "fajr": "07:10"
+    }
+   }
   },
   "aldergrove-jumuah": {
    "status": "unknown"
@@ -18215,7 +18392,7 @@
    "status": "auto",
    "source": "https://www.iawc.ca/",
    "updated": "2026-11-27",
-   "expires": "2026-12-04",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -18238,8 +18415,8 @@
     "13:30",
     "14:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://www.iawc.ca/ | re-read OK on 2026-11-27",
-   "updatedAt": "01:13"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:58"
   },
   "jamia-riyadhul-jannah-2": {
    "status": "auto",
@@ -18468,12 +18645,12 @@
   "west-end-musalla-and-community-services-ucsf": {
    "status": "auto",
    "source": "https://www.mosqueprayertimes.com/westend-musalla",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "07:20"
+     "v": "07:30"
     },
     "asr": {
      "t": "fixed",
@@ -18481,14 +18658,15 @@
     },
     "isha": {
      "t": "fixed",
-     "v": "20:10"
+     "v": "20:00"
     }
    },
    "jummah": [
     "13:30",
     "14:10"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://www.mosqueprayertimes.com/westend-musalla"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:58"
   },
   "west-richmond-salatul-jumuah": {
    "status": "unknown"
@@ -21116,20 +21294,20 @@
   "mosquee-de-rouyn-noranda-al-madinah-association-": {
    "status": "auto",
    "source": "https://moonode.tv/glassy/DINSCREEN-423491-ROUYN-NORANDA-CA-J9X2S4",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:20"
+     "v": "06:29"
     },
     "dhuhr": {
      "t": "fixed",
-     "v": "12:12"
+     "v": "12:14"
     },
     "asr": {
      "t": "fixed",
-     "v": "14:23"
+     "v": "14:18"
     },
     "isha": {
      "t": "fixed",
@@ -21139,7 +21317,75 @@
    "jummah": [
     "12:20"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://moonode.tv/glassy/DINSCREEN-423491-ROUYN-NORANDA-CA-J9X2S4"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, dhuhr, asr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:30",
+     "dhuhr": "12:14",
+     "asr": "14:18"
+    },
+    "2026-11-29": {
+     "fajr": "06:31",
+     "dhuhr": "12:15",
+     "asr": "14:17"
+    },
+    "2026-11-30": {
+     "fajr": "06:32",
+     "dhuhr": "12:15",
+     "asr": "14:17"
+    },
+    "2026-12-01": {
+     "fajr": "06:33",
+     "dhuhr": "12:15",
+     "asr": "14:16"
+    },
+    "2026-12-02": {
+     "fajr": "06:35",
+     "dhuhr": "12:16",
+     "asr": "14:16"
+    },
+    "2026-12-03": {
+     "fajr": "06:36",
+     "dhuhr": "12:16",
+     "asr": "14:16"
+    },
+    "2026-12-04": {
+     "fajr": "06:37",
+     "dhuhr": "12:17",
+     "asr": "14:15"
+    },
+    "2026-12-05": {
+     "fajr": "06:38",
+     "dhuhr": "12:17",
+     "asr": "14:15"
+    },
+    "2026-12-06": {
+     "fajr": "06:39",
+     "dhuhr": "12:17",
+     "asr": "14:15"
+    },
+    "2026-12-07": {
+     "fajr": "06:40",
+     "dhuhr": "12:18",
+     "asr": "14:15"
+    },
+    "2026-12-08": {
+     "fajr": "06:40",
+     "dhuhr": "12:18",
+     "asr": "14:15"
+    },
+    "2026-12-09": {
+     "fajr": "06:41",
+     "dhuhr": "12:19",
+     "asr": "14:15"
+    },
+    "2026-12-10": {
+     "fajr": "06:42",
+     "dhuhr": "12:19",
+     "asr": "14:15"
+    }
+   },
+   "updatedAt": "12:58"
   },
   "association-culturelle-musulmane-de-val-d-or-mos": {
    "status": "auto",
@@ -21666,20 +21912,20 @@
   "mosquee-minaret-du-nord": {
    "status": "auto",
    "source": "https://moonode.tv/blue/DINSCREEN-856292-SAINT-JEROME-CANADA-J7Z2B6",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "05:57"
+     "v": "06:05"
     },
     "dhuhr": {
      "t": "fixed",
-     "v": "11:52"
+     "v": "11:54"
     },
     "asr": {
      "t": "fixed",
-     "v": "14:10"
+     "v": "14:07"
     },
     "isha": {
      "t": "fixed",
@@ -21690,7 +21936,75 @@
     "12:15",
     "13:00"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://moonode.tv/blue/DINSCREEN-856292-SAINT-JEROME-CANADA-J7Z2B6"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, dhuhr, asr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:06",
+     "dhuhr": "11:54",
+     "asr": "14:07"
+    },
+    "2026-11-29": {
+     "fajr": "06:07",
+     "dhuhr": "11:55",
+     "asr": "14:06"
+    },
+    "2026-11-30": {
+     "fajr": "06:08",
+     "dhuhr": "11:55",
+     "asr": "14:06"
+    },
+    "2026-12-01": {
+     "fajr": "06:09",
+     "dhuhr": "11:55",
+     "asr": "14:06"
+    },
+    "2026-12-02": {
+     "fajr": "06:10",
+     "dhuhr": "11:56",
+     "asr": "14:05"
+    },
+    "2026-12-03": {
+     "fajr": "06:11",
+     "dhuhr": "11:56",
+     "asr": "14:05"
+    },
+    "2026-12-04": {
+     "fajr": "06:12",
+     "dhuhr": "11:57",
+     "asr": "14:05"
+    },
+    "2026-12-05": {
+     "fajr": "06:13",
+     "dhuhr": "11:57",
+     "asr": "14:05"
+    },
+    "2026-12-06": {
+     "fajr": "06:14",
+     "dhuhr": "11:57",
+     "asr": "14:05"
+    },
+    "2026-12-07": {
+     "fajr": "06:15",
+     "dhuhr": "11:58",
+     "asr": "14:04"
+    },
+    "2026-12-08": {
+     "fajr": "06:16",
+     "dhuhr": "11:58",
+     "asr": "14:04"
+    },
+    "2026-12-09": {
+     "fajr": "06:17",
+     "dhuhr": "11:59",
+     "asr": "14:04"
+    },
+    "2026-12-10": {
+     "fajr": "06:17",
+     "dhuhr": "11:59",
+     "asr": "14:04"
+    }
+   },
+   "updatedAt": "12:58"
   },
   "centre-islamique-ahmadiyya-de-laval": {
    "status": "unknown"
