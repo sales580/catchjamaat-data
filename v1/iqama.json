@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T02:20:55Z",
+ "generated": "2026-11-27T03:59:39Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -8450,8 +8450,8 @@
   "islamic-centre-of-kingston-islamic-society-of-ki": {
    "status": "auto",
    "source": "https://kingstonmuslims.ca/wp-content/uploads/2026/01/ISK-Prayer-Timings-November-2026.pdf",
-   "updated": "2026-11-20",
-   "expires": "2026-12-31",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -8471,42 +8471,6 @@
     }
    },
    "days": {
-    "2026-11-20": {
-     "fajr": "06:20",
-     "dhuhr": "12:30",
-     "asr": "15:05",
-     "isha": "19:30"
-    },
-    "2026-11-21": {
-     "fajr": "06:20",
-     "dhuhr": "12:30",
-     "asr": "15:05",
-     "isha": "19:30"
-    },
-    "2026-11-22": {
-     "fajr": "06:20",
-     "dhuhr": "12:30",
-     "asr": "15:05",
-     "isha": "19:30"
-    },
-    "2026-11-23": {
-     "fajr": "06:30",
-     "dhuhr": "12:30",
-     "asr": "15:00",
-     "isha": "19:30"
-    },
-    "2026-11-24": {
-     "fajr": "06:30",
-     "dhuhr": "12:30",
-     "asr": "15:00",
-     "isha": "19:30"
-    },
-    "2026-11-25": {
-     "fajr": "06:30",
-     "dhuhr": "12:30",
-     "asr": "15:00",
-     "isha": "19:30"
-    },
     "2026-11-26": {
      "fajr": "06:30",
      "dhuhr": "12:30",
@@ -8728,8 +8692,8 @@
     "12:30",
     "13:30"
    ],
-   "jummahExpires": "2026-12-31",
-   "note": "From their monthly iqamah tables (November and December 2026 PDFs on their site, columns marked 'at ICK'). Friday: 1st Jumu'ah has an English talk at 12:00 (25 to 30 minutes) then adhan and khutbah, 2nd is 1:30 pm"
+   "note": "From their monthly iqamah tables (November and December 2026 PDFs on their site, columns marked 'at ICK'). Friday: 1st Jumu'ah has an English talk at 12:00 (25 to 30 minutes) then adhan and khutbah, 2nd is 1:30 pm | confirmed 2026-11-26: their November 2026 timetable PDF is still the one posted (read again today); the app follows its dated rows",
+   "updatedAt": "22:59"
   },
   "cornwall-islamic-centre": {
    "status": "unknown"
@@ -20182,14 +20146,15 @@
   "centre-communautaire-darlington-darlington-commu": {
    "status": "auto",
    "source": "https://centreridwan.com/prieres-et-pratique-religieuse/",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "12:30",
     "13:45"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://centreridwan.com/prieres-et-pratique-religieuse/"
+   "note": "Read by eye on 20 Nov 2026 from https://centreridwan.com/prieres-et-pratique-religieuse/ | confirmed 2026-11-26: checked by eye from a screenshot of their page: same Friday times (12:30, 1:45); the daily-times box did not load",
+   "updatedAt": "22:59"
   },
   "fomac-centre-loqman-forum-musulman-afro-canadien": {
    "status": "unknown"
