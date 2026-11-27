@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:48:24Z",
+ "generated": "2026-11-27T17:20:05Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -38,8 +38,8 @@
   "masjid-toronto": {
    "status": "auto",
    "source": "https://centres.macnet.ca/masjidtoronto/",
-   "updated": "2026-11-23",
-   "expires": "2026-12-07",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -51,7 +51,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "15:00"
+     "v": "14:30"
     },
     "isha": {
      "t": "fixed",
@@ -63,13 +63,14 @@
     "13:00",
     "13:50"
    ],
-   "note": "Their MAC page, owner's screenshot (23 Nov): iqama Fajr 6:30, Dhuhr 12:30 pm, Asr 3:00 pm, Isha 7:00 pm; Friday 12:10, 1:00 and 1:50 pm; Friday list on their page is dated 20 Nov: Dundas 12:10 (Br. Osama Lela), 1:00 and 1:50 (Dr Waleed Abo Ziad); Maghrib iqama 4 minutes after the adhan"
+   "note": "Their MAC page, owner's screenshot (23 Nov): iqama Fajr 6:30, Dhuhr 12:30 pm, Asr 3:00 pm, Isha 7:00 pm; Friday 12:10, 1:00 and 1:50 pm; Friday list on their page is dated 20 Nov: Dundas 12:10 (Br. Osama Lela), 1:00 and 1:50 (Dr Waleed Abo Ziad); Maghrib iqama 4 minutes after the adhan | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "masjid-toronto-adelaide": {
    "status": "auto",
    "source": "https://centres.macnet.ca/masjidtoronto/",
-   "updated": "2026-11-23",
-   "expires": "2026-12-07",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -81,7 +82,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "15:00"
+     "v": "14:30"
     },
     "isha": {
      "t": "fixed",
@@ -89,9 +90,12 @@
     }
    },
    "jummah": [
-    "12:10"
+    "12:10",
+    "13:00",
+    "13:50"
    ],
-   "note": "Their MAC page, owner's screenshot (23 Nov): iqama Fajr 6:30, Dhuhr 12:30 pm, Asr 3:00 pm, Isha 7:00 pm; Friday 12:10 pm; Friday list on their page is dated 20 Nov: Dundas 12:10 (Br. Osama Lela), 1:00 and 1:50 (Dr Waleed Abo Ziad); Maghrib iqama 4 minutes after the adhan; only the first Adelaide session is visible in the picture (their list continues below it)"
+   "note": "Their MAC page, owner's screenshot (23 Nov): iqama Fajr 6:30, Dhuhr 12:30 pm, Asr 3:00 pm, Isha 7:00 pm; Friday 12:10 pm; Friday list on their page is dated 20 Nov: Dundas 12:10 (Br. Osama Lela), 1:00 and 1:50 (Dr Waleed Abo Ziad); Maghrib iqama 4 minutes after the adhan; only the first Adelaide session is visible in the picture (their list continues below it) | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "jummah-prayer-hall-bloor-rom": {
    "status": "auto",
@@ -490,8 +494,8 @@
     "14:00",
     "14:45"
    ],
-   "note": "Saturday Zuhr jamaat is at 2:00 pm (after the weekly Islamic school) | checked by eye on 2026-11-25: page dated Wed 25 Nov 2026, 'Prayer Schedule': Fajr 06:30 AM, Dhuhr 01:00 PM, Asr 04:00 PM, Maghrib 04:52 PM, Isha 07:00 PM; Friday row: four prayers, iqamah 12:45, 1:15, 2:00, 2:45; Saturday Zuhr 2:00 PM (changed: Friday 12:45, 13:15, 14:00, 14:45 (was 13:15, 14:00, 14:45)) | re-read OK on 2026-11-27",
-   "updatedAt": "01:11"
+   "note": "Saturday Zuhr jamaat is at 2:00 pm (after the weekly Islamic school) | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "scarborough-muslim-association-jame-abu-bakr-sid": {
    "status": "auto",
@@ -693,8 +697,8 @@
     "13:30",
     "14:15"
    ],
-   "note": " | checked by eye on 2026-11-25: page dated Wed 25 Nov 2026: Fajr 6:30, Dhuhr 1:00, Asr 3:30, Isha 7:30; Friday 12:30, 1:30, 2:15 (changed: fajr 06:30 (was 06:15)) | re-read OK on 2026-11-27",
-   "updatedAt": "01:11"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "islamic-centre-of-markham-masjid-darul-iman": {
    "status": "auto",
@@ -760,8 +764,8 @@
   "international-muslims-organization": {
    "status": "auto",
    "source": "https://imooftoronto.com",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -780,7 +784,8 @@
      "v": "18:30"
     }
    },
-   "note": "From the owner's screenshot of their page (26 Nov 2026): iqamah Fajr 6:15, Dhuhr 12:40, Asr 3:15, Maghrib 4:45, Isha 6:30 (same as on 22 Nov). No Friday time was in it"
+   "note": "From the owner's screenshot of their page (26 Nov 2026): iqamah Fajr 6:15, Dhuhr 12:40, Asr 3:15, Maghrib 4:45, Isha 6:30 (same as on 22 Nov). No Friday time was in it | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "darul-hijra-islamic-centre": {
    "status": "auto",
@@ -1507,8 +1512,8 @@
   "anjuman-e-anwarul-islam-of-malton": {
    "status": "auto",
    "source": "https://maltonmasjid.ad-din.site/",
-   "updated": "2026-11-22",
-   "expires": "2026-12-06",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -1524,14 +1529,15 @@
     },
     "isha": {
      "t": "fixed",
-     "v": "19:45"
+     "v": "20:30"
     }
    },
    "jummah": [
     "13:00",
     "14:15"
    ],
-   "note": "From the owner's screenshot of their board (22 Nov): Isha was 6:45 pm on Sunday 22 Nov and changes to 7:45 pm from Monday 23 Nov; Friday times are the 1st and 2nd Jumuah iqamah"
+   "note": "From the owner's screenshot of their board (22 Nov): Isha was 6:45 pm on Sunday 22 Nov and changes to 7:45 pm from Monday 23 Nov; Friday times are the 1st and 2nd Jumuah iqamah | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "anjuman-e-fakhri-jamaat": {
    "status": "unknown"
@@ -2838,8 +2844,8 @@
   "islamic-community-centre-of-ontario-icco-mac-mas": {
    "status": "auto",
    "source": "https://centres.macnet.ca/icco/",
-   "updated": "2026-11-23",
-   "expires": "2026-12-07",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -2864,7 +2870,8 @@
     "13:30",
     "14:30"
    ],
-   "note": "Their MAC page, owner's screenshot (23 Nov): iqama Fajr 6:30, Dhuhr 1:00 pm, Asr 3:15 pm, Isha 7:30 pm; Friday 11:00 am, 12:15, 1:30 and 2:30 pm; Friday sessions: 11:00 English, 12:15 English, 1:30 English, 2:30 Arabic (their page); Maghrib iqama 5 minutes after the adhan"
+   "note": "Their MAC page, owner's screenshot (23 Nov): iqama Fajr 6:30, Dhuhr 1:00 pm, Asr 3:15 pm, Isha 7:30 pm; Friday 11:00 am, 12:15, 1:30 and 2:30 pm; Friday sessions: 11:00 English, 12:15 English, 1:30 English, 2:30 Arabic (their page); Maghrib iqama 5 minutes after the adhan | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "islamic-information-dawah-centre-international": {
    "status": "auto",
@@ -3481,8 +3488,8 @@
   "mosque-at-ladysmith-avenue": {
    "status": "auto",
    "source": "https://taqwamasjid.ca/",
-   "updated": "2026-11-21",
-   "expires": "2026-12-05",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -3494,7 +3501,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "15:30"
+     "v": "15:20"
     },
     "maghrib": {
      "t": "fixed",
@@ -3508,7 +3515,8 @@
    "jummah": [
     "13:00"
    ],
-   "note": " | re-read OK on 2026-11-21 (changed: maghrib 16:52)"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "mosque-at-149-bartley-drive": {
    "status": "unknown"
@@ -3839,8 +3847,8 @@
     "12:35",
     "13:35"
    ],
-   "note": " | checked by eye on 2026-11-25: their yearly iqama timetable (PDF on their prayer-timings page), row from 20 November: Fajr 6:30 AM, Zhuhr 1:00 PM, Asr 3:30 PM, Isha 7:30 PM; from 1 December Fajr 6:45; Maghrib 5 min after sunset; Friday khutbah November to March 12:35 and 1:35 (changed: fajr 06:30 (was 06:15); Friday 12:35, 13:35 (was 12:35, 13:35, 14:35)) | re-read OK on 2026-11-27",
-   "updatedAt": "01:12"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "the-reign-of-islamic-da-wah": {
    "status": "auto",
@@ -4222,8 +4230,8 @@
   "al-eman-islamic-centre-of-canada": {
    "status": "auto",
    "source": "https://www.al-eman.ca/home",
-   "updated": "2026-11-25",
-   "expires": "2026-12-09",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -4246,8 +4254,8 @@
     "12:30",
     "13:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://www.al-eman.ca/home | checked by eye on 2026-11-25: page 'Iqama': Fajr 6:20 AM, Duhur 1:00 PM, Asr 3:30 PM, Maghrib sunset, Isha 8:00 PM; Friday khutbah 12:30 and 1:15",
-   "updatedAt": "16:56"
+   "note": "Read by eye on 20 Nov 2026 from https://www.al-eman.ca/home | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "al-firdous-islamic-centre": {
    "status": "auto",
@@ -4317,8 +4325,8 @@
   "al-misbah-islamic-centre": {
    "status": "auto",
    "source": "https://amiccanada.ca/",
-   "updated": "2026-11-25",
-   "expires": "2026-12-04",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -4365,8 +4373,8 @@
     "12:45",
     "13:45"
    ],
-   "note": "Friday times are Jumuah 1 and 2 on their page. Isha 6:30 pm on Saturdays and Sundays | checked by eye on 2026-11-25: their own time board (embedded on amiccanada.ca), row from 23 Nov: Fajr 6:30, Dhuhr 12:45, Asr 3:45, Maghrib sunset, Isha 7:15; rows for 28 and 29 Nov: Isha 6:30; Friday 12:45 and 1:45 (changed: isha 19:15 (was 18:45))",
-   "updatedAt": "16:56"
+   "note": "Friday times are Jumuah 1 and 2 on their page. Isha 6:30 pm on Saturdays and Sundays | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "al-nadwa-educational-islamic-centre": {
    "status": "auto",
@@ -4914,8 +4922,8 @@
   "darul-arqam-musalla": {
    "status": "auto",
    "source": "https://darularqammusalla.ca/",
-   "updated": "2026-11-25",
-   "expires": "2026-12-09",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -4943,8 +4951,8 @@
     "13:30",
     "14:15"
    ],
-   "note": "Friday times are the Arabic khutbah starts | checked by eye on 2026-11-25: page 'Salah timings from Sunday November 15th, 2026': Fajr 6:25 am, Zuhr 12:35 pm, Asr 3:30 pm, Maghrib 3 min after sunset, Isha 7:20 pm; Friday Arabic khutbah 12:40, 1:30, 2:15 (changed: fajr 06:25 (was 06:10); asr 15:30 (was 15:40))",
-   "updatedAt": "16:56"
+   "note": "Friday times are the Arabic khutbah starts | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "dawanet-community-centre": {
    "status": "auto",
@@ -5016,8 +5024,8 @@
   "dmcc-masjid-durham-muslim-community-centre": {
    "status": "auto",
    "source": "https://dmccmasjid.com/wp-content/uploads/2026/11/photo_2026-11-01_09-24-32.jpg",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -5039,8 +5047,8 @@
    "jummah": [
     "13:00"
    ],
-   "note": "From the Prayer Times poster uploaded to their site on 1 November 2026 (no dates on it, so it is kept 14 days) | checked by eye on 2026-11-26 from a screenshot of their page: same times",
-   "updatedAt": "21:20"
+   "note": "From the Prayer Times poster uploaded to their site on 1 November 2026 (no dates on it, so it is kept 14 days) | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "durham-united-ahlul-bayt-centre": {
    "status": "unknown"
@@ -5657,8 +5665,8 @@
   "jamaat-of-ontario": {
    "status": "auto",
    "source": "http://jamaatofontario.ca/",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -5680,8 +5688,8 @@
    "jummah": [
     "12:30"
    ],
-   "note": "From the owner's screenshot of the prayer board on their site (22 Nov); Friday: adhan 12:30, iqamah 1:00 pm | checked by eye on 2026-11-26 from a screenshot of their page: same times",
-   "updatedAt": "21:20"
+   "note": "From the owner's screenshot of the prayer board on their site (22 Nov); Friday: adhan 12:30, iqamah 1:00 pm | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "jamaatul-al-mumi-noon": {
    "status": "auto",
@@ -5908,8 +5916,8 @@
   "masjid-ad-da-wah": {
    "status": "auto",
    "source": "https://dilc.ca/",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -5935,8 +5943,8 @@
    "jummah": [
     "13:15"
    ],
-   "note": "Friday: adhan 1:15 pm; their page also shows a second Friday prayer at 3:00 pm | checked by eye on 2026-11-26 from a screenshot of their page: fajr 06:45, asr 16:15",
-   "updatedAt": "21:20"
+   "note": "Friday: adhan 1:15 pm; their page also shows a second Friday prayer at 3:00 pm | confirmed 2026-11-27 from the owner's screenshot (Dhuhr was not shown: the board showed Friday prayer in its place)",
+   "updatedAt": "12:20"
   },
   "masjid-al-noor-center-of-canada": {
    "status": "auto",
@@ -6230,8 +6238,8 @@
   "masjid-tayyaba-educational-islamic-centre": {
    "status": "auto",
    "source": "http://www.tayyabamasjid.ca/",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -6239,7 +6247,7 @@
     },
     "dhuhr": {
      "t": "fixed",
-     "v": "13:30"
+     "v": "13:00"
     },
     "asr": {
      "t": "fixed",
@@ -6273,8 +6281,8 @@
    "jummah": [
     "13:00"
    ],
-   "note": "From the owner's screenshot of the prayer board on their site (22 Nov); Friday: adhan 1:00, iqamah 1:30 pm | checked by eye on 2026-11-26 from a screenshot of their page: same times",
-   "updatedAt": "21:20"
+   "note": "From the owner's screenshot of the prayer board on their site (22 Nov); Friday: adhan 1:00, iqamah 1:30 pm | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "masjid-ummah": {
    "status": "unknown"
@@ -6803,8 +6811,8 @@
   "the-sunatul-jamaat-of-ontario": {
    "status": "auto",
    "source": "https://www.sunatuljamaat.com/",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -6831,7 +6839,8 @@
     "13:00",
     "14:00"
    ],
-   "note": "Friday times are the khutbah starts (iqamah 1:30 and 2:30 pm)"
+   "note": "Friday times are the khutbah starts (iqamah 1:30 and 2:30 pm) | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "thompson-musalla": {
    "status": "unknown"
@@ -6858,12 +6867,12 @@
   "uthman-masjid": {
    "status": "auto",
    "source": "https://uthmanmasjid.com/",
-   "updated": "2026-11-17",
-   "expires": "2026-12-01",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:15"
+     "v": "06:30"
     },
     "dhuhr": {
      "t": "fixed",
@@ -6885,7 +6894,9 @@
    "jummah": [
     "12:30",
     "13:30"
-   ]
+   ],
+   "updatedAt": "12:20",
+   "note": "confirmed 2026-11-27 from the owner's screenshot"
   },
   "vaughan-islamic-community-centre": {
    "status": "auto",
@@ -6924,8 +6935,8 @@
   "weston-islamic-benevolence-society": {
    "status": "auto",
    "source": "https://westonislamic.ca/",
-   "updated": "2026-11-25",
-   "expires": "2026-12-02",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -6951,8 +6962,8 @@
    "jummah": [
     "14:00"
    ],
-   "note": "Iqamah times on their prayer board (Masjidal) for 19 Nov; Maghrib is 5 minutes after the start; Friday prayer 2:00 pm as shown on the board | checked by eye on 2026-11-25: their own time board (AthanPlus monthly page, November row, address checked): Fajr 6:20, Dhuhr 12:45, Asr 3:05, Isha 6:30; Friday 2:00 (changed: asr 15:05 (was 15:10))",
-   "updatedAt": "16:56"
+   "note": "Iqamah times on their prayer board (Masjidal) for 19 Nov; Maghrib is 5 minutes after the start; Friday prayer 2:00 pm as shown on the board | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "whitby-muslim-society": {
    "status": "auto",
@@ -7209,8 +7220,8 @@
   "sacred-hand-canada-musallah": {
    "status": "auto",
    "source": "https://sacredhandcanada.com/wp-content/uploads/2023/11/mussallah-timings.webp",
-   "updated": "2026-11-25",
-   "expires": "2026-12-09",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -7268,8 +7279,8 @@
    "jummah": [
     "13:30"
    ],
-   "note": "Timetable picture read 20 Nov 2026; the block from 21 Nov has Fajr 6:45 | checked by eye on 2026-11-25: their yearly timetable picture, row for 21 to 30 November: Fajr 6:45, Dhuhr 1:35, Asr 3:15, Maghrib sunset, Isha 7:00; December is the same",
-   "updatedAt": "16:56"
+   "note": "Timetable picture read 20 Nov 2026; the block from 21 Nov has Fajr 6:45 | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "ummati-learning-center-mosque": {
    "status": "auto",
@@ -7309,8 +7320,8 @@
   "nejashi-islamic-center": {
    "status": "auto",
    "source": "https://nejashi.ca/prayer-time/",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -7336,7 +7347,8 @@
    "jummah": [
     "13:00"
    ],
-   "note": "Maghrib iqamah is at the start time on their board. Friday time is the 1st Jumuah on their board"
+   "note": "Maghrib iqamah is at the start time on their board. Friday time is the 1st Jumuah on their board | confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:20"
   },
   "istiqlal-islamic-centre-of-toronto-masjid-istiql": {
    "status": "auto",
