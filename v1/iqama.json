@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T23:57:59Z",
+ "generated": "2026-11-27T00:01:12Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -478,6 +478,9 @@
      "dhuhr": "14:00"
     },
     "2026-12-05": {
+     "dhuhr": "14:00"
+    },
+    "2026-12-12": {
      "dhuhr": "14:00"
     }
    },
@@ -3257,6 +3260,18 @@
     },
     "2026-11-29": {
      "isha": "18:30"
+    },
+    "2026-12-05": {
+     "isha": "18:30"
+    },
+    "2026-12-06": {
+     "isha": "18:30"
+    },
+    "2026-12-12": {
+     "isha": "18:30"
+    },
+    "2026-12-13": {
+     "isha": "18:30"
     }
    },
    "jummah": [
@@ -4331,6 +4346,18 @@
     },
     "2026-11-29": {
      "isha": "18:30"
+    },
+    "2026-12-05": {
+     "isha": "18:30"
+    },
+    "2026-12-06": {
+     "isha": "18:30"
+    },
+    "2026-12-12": {
+     "isha": "18:30"
+    },
+    "2026-12-13": {
+     "isha": "18:30"
     }
    },
    "jummah": [
@@ -4715,6 +4742,12 @@
     },
     "2026-12-06": {
      "isha": "18:45"
+    },
+    "2026-12-12": {
+     "isha": "18:45"
+    },
+    "2026-12-13": {
+     "isha": "18:45"
     }
    },
    "jummah": [
@@ -4827,6 +4860,12 @@
      "isha": "19:00"
     },
     "2026-12-06": {
+     "isha": "19:00"
+    },
+    "2026-12-12": {
+     "isha": "19:00"
+    },
+    "2026-12-13": {
      "isha": "19:00"
     }
    },
@@ -5846,6 +5885,12 @@
     },
     "2026-12-06": {
      "isha": "18:30"
+    },
+    "2026-12-12": {
+     "isha": "18:30"
+    },
+    "2026-12-13": {
+     "isha": "18:30"
     }
    },
    "jummah": [
@@ -6201,7 +6246,27 @@
    "jummah": [
     "13:00"
    ],
-   "note": "From the owner's screenshot of the prayer board on their site (22 Nov); Friday: adhan 1:00, iqamah 1:30 pm"
+   "note": "From the owner's screenshot of the prayer board on their site (22 Nov); Friday: adhan 1:00, iqamah 1:30 pm",
+   "days": {
+    "2026-11-28": {
+     "isha": "18:45"
+    },
+    "2026-11-29": {
+     "isha": "18:45"
+    },
+    "2026-12-05": {
+     "isha": "18:45"
+    },
+    "2026-12-06": {
+     "isha": "18:45"
+    },
+    "2026-12-12": {
+     "isha": "18:45"
+    },
+    "2026-12-13": {
+     "isha": "18:45"
+    }
+   }
   },
   "masjid-ummah": {
    "status": "unknown"
@@ -8269,7 +8334,18 @@
     "12:15",
     "13:00"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://bayshoremasjidweb.wixsite.com/bayshore-masjid"
+   "note": "Read by eye on 20 Nov 2026 from https://bayshoremasjidweb.wixsite.com/bayshore-masjid",
+   "days": {
+    "2026-11-29": {
+     "dhuhr": "12:45"
+    },
+    "2026-12-06": {
+     "dhuhr": "12:45"
+    },
+    "2026-12-13": {
+     "dhuhr": "12:45"
+    }
+   }
   },
   "musalla-as-sahaba": {
    "status": "auto",
