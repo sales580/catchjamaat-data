@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T02:20:27Z",
+ "generated": "2026-11-27T02:20:55Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -7439,13 +7439,14 @@
   "madaniyya-academy-musalla": {
    "status": "auto",
    "source": "https://www.madaniyyaacademy.org/jummah",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:45"
    ],
-   "note": "Own Jumu'ah page read 20 Nov 2026: adhan 1:30, Arabic khutbah 1:45, iqamah about 1:55, the same all year; daily times are not published"
+   "note": "Own Jumu'ah page read 20 Nov 2026: adhan 1:30, Arabic khutbah 1:45, iqamah about 1:55, the same all year; daily times are not published | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "sunnybrook-hospital-muslim-prayer-room-e-wing": {
    "status": "unknown"
@@ -9456,24 +9457,26 @@
   "muslim-association-of-brantford-north-end-centre": {
    "status": "auto",
    "source": "https://themasjidapp.org/8088/prayers",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "12:55"
    ],
-   "note": "Masjid App page of the Muslim Association of Brantford read 20 Nov 2026 (Jumuah 12:55 pm at the North End); the daily table on that page is for another branch, not used"
+   "note": "Masjid App page of the Muslim Association of Brantford read 20 Nov 2026 (Jumuah 12:55 pm at the North End); the daily table on that page is for another branch, not used | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "islamic-centre-of-brant-muslim-association-of-br": {
    "status": "auto",
    "source": "https://themasjidapp.org/8088/prayers",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:20"
    ],
-   "note": "Masjid App page of the Muslim Association of Brantford read 20 Nov 2026 (Jumuah 1:20 pm at ICB); the daily table on that page is for another branch, not used"
+   "note": "Masjid App page of the Muslim Association of Brantford read 20 Nov 2026 (Jumuah 1:20 pm at ICB); the daily table on that page is for another branch, not used | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "masjid-sayyidna-bilal-masjid-bilal-paris": {
    "status": "unknown"
@@ -10763,13 +10766,14 @@
   "sudbury-mosque-islamic-association-of-sudbury": {
    "status": "auto",
    "source": "https://www.iasudbury.com",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "12:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://www.iasudbury.com"
+   "note": "Read by eye on 20 Nov 2026 from https://www.iasudbury.com | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "islamic-association-of-sault-ste-marie-iassm": {
    "status": "unknown"
@@ -11937,13 +11941,14 @@
   "centre-islamique-bilal-du-quebec-masjid-bilal": {
    "status": "auto",
    "source": "https://bilal-islamic-centre-quebec.netlify.app/prayer",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://bilal-islamic-centre-quebec.netlify.app/prayer"
+   "note": "Read by eye on 20 Nov 2026 from https://bilal-islamic-centre-quebec.netlify.app/prayer | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "muslim-community-of-quebec-mcq-communaute-musulm": {
    "status": "auto",
@@ -12105,13 +12110,14 @@
   "masjid-fatima-fatima-zohra": {
    "status": "auto",
    "source": "https://www.fatima-zohra.com/fr/prayer-times",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://www.fatima-zohra.com/fr/prayer-times"
+   "note": "Read by eye on 20 Nov 2026 from https://www.fatima-zohra.com/fr/prayer-times | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "services-islamiques-du-quebec-isq-islamic-servic": {
    "status": "auto",
@@ -13799,14 +13805,15 @@
   "dar-al-sunnah": {
    "status": "auto",
    "source": "https://daralsunnah.com/",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:15",
     "14:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://daralsunnah.com/"
+   "note": "Read by eye on 20 Nov 2026 from https://daralsunnah.com/ | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "markaz-al-imam-malik": {
    "status": "auto",
@@ -14985,13 +14992,14 @@
   "akram-jomaa-islamic-centre": {
    "status": "auto",
    "source": "https://muslimscalgary.ca/prayer/",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "12:30"
    ],
-   "note": "Friday time from the Muslim Council of Calgary's prayer page (the council that runs the centre); the centre's own site is closed to readers"
+   "note": "Friday time from the Muslim Council of Calgary's prayer page (the council that runs the centre); the centre's own site is closed to readers | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "omar-bin-al-khattab-musalla-east-calgary-islamic": {
    "status": "unknown"
@@ -15821,13 +15829,14 @@
   "abu-bakr-islamic-center-3-ave-ne": {
    "status": "auto",
    "source": "https://abubakrcalgary.ca/",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://abubakrcalgary.ca/"
+   "note": "Read by eye on 20 Nov 2026 from https://abubakrcalgary.ca/ | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "downtown-musallah-central-united-church": {
    "status": "unknown"
@@ -16738,14 +16747,15 @@
   "mission-musullah-also-listed-as-mission-jumuah": {
    "status": "auto",
    "source": "https://mcics.org",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:30",
     "14:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://mcics.org"
+   "note": "Read by eye on 20 Nov 2026 from https://mcics.org | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "muslim-youth-centre": {
    "status": "unknown"
@@ -16783,14 +16793,15 @@
   "al-jamia-masjid-vancouver-vancouver-jamia-masjid": {
    "status": "auto",
    "source": "https://pakcanbc.com/al-jamia-masjid-vancouver",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:30",
     "14:15"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://pakcanbc.com/al-jamia-masjid-vancouver"
+   "note": "Read by eye on 20 Nov 2026 from https://pakcanbc.com/al-jamia-masjid-vancouver | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "vernon-islamic-centre-vernon-mosque-islamic-cent": {
    "status": "auto",
@@ -17857,13 +17868,14 @@
   "pictou-county-mosque-pictou-county-islamic-centr": {
    "status": "auto",
    "source": "https://pictoucountymasjid.ca/",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:30"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://pictoucountymasjid.ca/"
+   "note": "Read by eye on 20 Nov 2026 from https://pictoucountymasjid.ca/ | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "baitul-hafeez-ahmadiyya-muslim-jama-at": {
    "status": "unknown"
@@ -18807,24 +18819,26 @@
   "jummah-prayer-hall-waterdown": {
    "status": "auto",
    "source": "https://jummahprayerhall.com/waterdown",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:30"
    ],
-   "note": "Read by eye on 20 Nov from the masjid's own page (standing Friday schedule (no date on page)); time range shown (session window 13:30-14:00), start used; friday only"
+   "note": "Read by eye on 20 Nov from the masjid's own page (standing Friday schedule (no date on page)); time range shown (session window 13:30-14:00), start used; friday only | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "jummah-prayer-hall-hamilton": {
    "status": "auto",
    "source": "https://jummahprayerhall.com/hamilton",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "12:30"
    ],
-   "note": "Read by eye on 20 Nov from the masjid's own page (standing Friday schedule (no date on page)); time range shown (session window 12:30-13:00), start used; daily prayers offered but times only in a WhatsApp group; friday only"
+   "note": "Read by eye on 20 Nov from the masjid's own page (standing Friday schedule (no date on page)); time range shown (session window 12:30-13:00), start used; daily prayers offered but times only in a WhatsApp group; friday only | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "port-hope-muslim-community-al-ikram-foundation": {
    "status": "auto",
@@ -18840,13 +18854,14 @@
   "norfolk-islamic-centre": {
    "status": "auto",
    "source": "https://norfolkislamiccentre.org/",
-   "updated": "2026-11-22",
-   "expires": "2026-12-06",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:30"
    ],
-   "note": "Only the Friday time (every Friday 1:30 pm) from the owner's screenshot (22 Nov); their iqamah column shows summer values (Asr 5:15 pm, Isha 9:10 pm), so the daily times were not used"
+   "note": "Only the Friday time (every Friday 1:30 pm) from the owner's screenshot (22 Nov); their iqamah column shows summer values (Asr 5:15 pm, Isha 9:10 pm), so the daily times were not used | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "islamic-society-of-simcoe-county-al-mustafa-masj": {
    "status": "auto",
@@ -20332,24 +20347,26 @@
   "lacombe-islamic-center-baitul-falah-al-maun-welf": {
    "status": "auto",
    "source": "https://www.al-maunfoundation.org/services/jummah-services/",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "14:00"
    ],
-   "note": "Own page: winter Jumu'ah khutbah 2:00 pm (summer 1:00 pm)"
+   "note": "Own page: winter Jumu'ah khutbah 2:00 pm (summer 1:00 pm) | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "sylvan-lake-islamic-center": {
    "status": "auto",
    "source": "https://www.al-maunfoundation.org/services/jummah-services/",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "14:00"
    ],
-   "note": "Own page: winter Jumu'ah khutbah 2:00 pm (summer 1:00 pm)"
+   "note": "Own page: winter Jumu'ah khutbah 2:00 pm (summer 1:00 pm) | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "edson-mosque-islamic-society-of-edson-and-masjid": {
    "status": "unknown"
@@ -20799,14 +20816,15 @@
   "markaz-maryam-community-centre-jumu-ah-at-suther": {
    "status": "auto",
    "source": "https://mccsaskatoon.com/prayer-time/",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:00",
     "14:00"
    ],
-   "note": "Read by eye on 20 Nov from the masjid's own page (Every Friday (standing box on the page that shows Friday, No); Friday prayers only, no daily iqama times here; times are the Khutbah starts; the page also gives the ends 1:35 PM and 2:35 PM"
+   "note": "Read by eye on 20 Nov from the masjid's own page (Every Friday (standing box on the page that shows Friday, No); Friday prayers only, no daily iqama times here; times are the Khutbah starts; the page also gives the ends 1:35 PM and 2:35 PM | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "islamic-centre-north-battleford": {
    "status": "unknown"
@@ -21053,13 +21071,14 @@
   "blockhouse-mosque-islamic-association-of-the-sou": {
    "status": "auto",
    "source": "https://islamsouthshore.weebly.com",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:30"
    ],
-   "note": "Read by eye on 20 Nov from the masjid's own page (undated standing line on the home page); friday only, no daily iqama times; undated standing line on an old Weebly site; the mosque opens 1:00 PM and the pr"
+   "note": "Read by eye on 20 Nov from the masjid's own page (undated standing line on the home page); friday only, no daily iqama times; undated standing line on an old Weebly site; the mosque opens 1:00 PM and the pr | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "cole-harbour-muslim-community-center-cole-harbou": {
    "status": "unknown"
@@ -21336,13 +21355,14 @@
   "russell-embrun-musalla": {
    "status": "auto",
    "source": "https://embrunmusalla.com/",
-   "updated": "2026-11-20",
-   "expires": "2026-11-27",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:25"
    ],
-   "note": "Friday only for now: its own page says daily prayers are paused and the musalla is moving to a new location (we were asked to vacate); Jumma prayers 1:25 pm at 6 Blais St, Embrun"
+   "note": "Friday only for now: its own page says daily prayers are paused and the musalla is moving to a new location (we were asked to vacate); Jumma prayers 1:25 pm at 6 Blais St, Embrun | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "centre-communautaire-el-mouahidine-de-chibougama": {
    "status": "unknown"
@@ -21440,13 +21460,14 @@
   "al-huda-islamic-centre-aic-jumuah-at-park-place-": {
    "status": "auto",
    "source": "https://alhudaislamiccentre.ca/programs/jumuah",
-   "updated": "2026-11-20",
-   "expires": "2026-12-04",
+   "updated": "2026-11-26",
+   "expires": "2026-12-10",
    "rules": {},
    "jummah": [
     "13:00"
    ],
-   "note": "Friday only: its own Jumuah page says every Friday 1:00 pm at Park Place, Mount Pearl (a rented hall; the venue may change)"
+   "note": "Friday only: its own Jumuah page says every Friday 1:00 pm at Park Place, Mount Pearl (a rented hall; the venue may change) | checked by eye on 2026-11-26 from a screenshot of their page: same Friday time(s)",
+   "updatedAt": "21:20"
   },
   "united-muslim-association": {
    "status": "unknown"
