@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T17:45:07Z",
+ "generated": "2026-11-27T17:52:16Z",
  "mosques": {
   "toronto-islamic-centre-community-services": {
    "status": "auto",
@@ -9062,8 +9062,8 @@
   "jami-masjid-zakariya": {
    "status": "auto",
    "source": "https://cornwallmasjid.ca/home",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -9089,7 +9089,8 @@
    "jummah": [
     "12:35"
    ],
-   "note": "Salah Times box on their home page (19 Nov, the page has no date and gives one time per prayer; Maghrib is at sunset). Friday time is the Jumma iqamah at 12:35 pm"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:52"
   },
   "masjid-baitun-nasir": {
    "status": "unknown"
@@ -9474,12 +9475,12 @@
   "ebu-bekir-islamic-centre": {
    "status": "auto",
    "source": "https://www.ebubekir.org/",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:15"
+     "v": "06:30"
     },
     "dhuhr": {
      "t": "fixed",
@@ -9502,7 +9503,13 @@
     "12:30",
     "13:30"
    ],
-   "note": "Timing screen on their home page (my-masjid, 19 Nov): Maghrib iqamah is 1 minute after their 4:54 start. Friday times are the first and second Jumu'ah on the page"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; Fajr 6:15 on 27 Nov, 6:30 from 28 Nov (their screen); Dhuhr not shown (Friday)",
+   "updatedAt": "12:52",
+   "days": {
+    "2026-11-27": {
+     "fajr": "06:15"
+    }
+   }
   },
   "razavi-community-centre-isij-of-toronto": {
    "status": "unknown"
@@ -9981,12 +9988,12 @@
   "islamic-centre-of-cambridge": {
    "status": "auto",
    "source": "https://www.iccambridge.com/",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:15"
+     "v": "06:30"
     },
     "dhuhr": {
      "t": "fixed",
@@ -10009,17 +10016,18 @@
     "13:00",
     "14:00"
    ],
-   "note": "Prayer table on their home page (Begins and Iqamah, 19 Nov): Maghrib iqamah is 3 minutes after the 4:54 start. Friday times are the two Juma khutbah times"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; the table on their page was headed 26 Nov",
+   "updatedAt": "12:52"
   },
   "cambridge-muslim-society-masjid-umar-farooq": {
    "status": "auto",
    "source": "https://cms.ad-din.site/",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:30"
+     "v": "06:45"
     },
     "dhuhr": {
      "t": "fixed",
@@ -10042,7 +10050,8 @@
     "12:45",
     "14:30"
    ],
-   "note": "Table on their site (Begins, Adhan and Iqamah columns, 19 Nov): the Iqamah column is used, Maghrib iqamah is 3 minutes after the 4:56 start. Friday times are the first Jumah adhan (iqamah 1:00 pm) and the second Jumah at 2:30 pm"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:52"
   },
   "mac-hespeler-masjid": {
    "status": "auto",
@@ -10161,8 +10170,8 @@
     "13:10",
     "14:35"
    ],
-   "note": "Prayer Times box on their home page (Start and Iqamah, 19 Nov): Maghrib iqamah is 3 minutes after the 4:55 start. Friday times are the starts of Jummah 1 and 2 (iqamah 1:35 and 3:00 pm) | checked by a person on 2026-11-26 (batch1): fajr 06:45 | re-read OK on 2026-11-27",
-   "updatedAt": "01:12"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:52"
   },
   "islamic-society-of-guelph-masjid-abu-bakr-as-sid": {
    "status": "auto",
@@ -10194,8 +10203,8 @@
    "jummah": [
     "13:30"
    ],
-   "note": "Prayer Times table on their home page (19 Nov): Maghrib iqamah equals the 4:52 start. Friday time is the Jummah start (iqamah 1:50 pm) | checked by a person on 2026-11-26 (batch1): fajr 06:30 | re-read OK on 2026-11-27",
-   "updatedAt": "01:12"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:52"
   },
   "masjid-aisha-mac-guelph": {
    "status": "auto",
@@ -10275,12 +10284,12 @@
   "stratford-mosque": {
    "status": "auto",
    "source": "https://stratfordmosque.ca/prayer-times",
-   "updated": "2026-11-23",
-   "expires": "2026-11-30",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:10"
+     "v": "06:25"
     },
     "dhuhr": {
      "t": "fixed",
@@ -10288,7 +10297,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:44"
+     "v": "14:40"
     },
     "isha": {
      "t": "fixed",
@@ -10298,7 +10307,8 @@
    "jummah": [
     "12:45"
    ],
-   "note": "Their prayer-times table (owner's screenshot, 23 Nov): athan / iqama Fajr 6:04 / 6:10, Dhuhr 12:10 / 12:45, Asr 2:34 / 2:44, Maghrib 4:53 / 4:58, Isha 6:17 / 6:30; Fajr, Asr and Isha follow the athan, so they move daily"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:52"
   },
   "owen-sound-muslim-association": {
    "status": "auto",
@@ -11109,8 +11119,8 @@
   "barrie-mosque-noor-ul-islam-of-ontario": {
    "status": "auto",
    "source": "https://www.barriemosque.ca/",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -11137,8 +11147,8 @@
     "12:30",
     "13:30"
    ],
-   "note": "Prayer box (The Masjid App) on their home page (19 Nov): Maghrib iqama is 3 minutes after the 4:48 start. Friday times are the two Jumuah prayers (the page says the 1st ends 1 pm and the 2nd 2 pm) | checked by eye on 2026-11-26 from a screenshot of their page: same times",
-   "updatedAt": "21:20"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:52"
   },
   "maryam-mosque": {
    "status": "unknown"
@@ -11271,12 +11281,12 @@
   "islah-center-icw": {
    "status": "auto",
    "source": "https://iaw-ca.com/wp-content/uploads/2026/11/ICW-Salah-Timings-Nov-2026.jpeg",
-   "updated": "2026-11-23",
+   "updated": "2026-11-27",
    "expires": "2026-12-01",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:45"
+     "v": "07:00"
     },
     "dhuhr": {
      "t": "fixed",
@@ -11284,7 +11294,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "15:40"
+     "v": "15:30"
     },
     "isha": {
      "t": "fixed",
@@ -11313,7 +11323,8 @@
     "13:00",
     "14:30"
    ],
-   "note": "Their Salah Timings picture for November 2026 (owner's screenshot of the page, 23 Nov): Dhuhr iqamah 1:15 pm, Maghrib iqamah 5 minutes after the adhan, Isha iqamah 7:45; Fajr iqamah 6:45 (13 to 26 Nov) then 7:00 from 27 Nov; Asr iqamah 3:40 (13 to 26 Nov) then 3:30 from 27 Nov; Jumu'ah 1:00 and 2:30 pm; the picture ends on 30 Nov"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; November picture, ends 30 Nov",
+   "updatedAt": "12:52"
   },
   "abu-bakr-musalla": {
    "status": "auto",
@@ -13568,11 +13579,11 @@
    "status": "auto",
    "source": "https://iccbrossard.com/",
    "updated": "2026-11-27",
-   "expires": "2026-11-30",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:00"
+     "v": "06:01"
     },
     "dhuhr": {
      "t": "fixed",
@@ -13595,8 +13606,62 @@
     "11:45",
     "13:00"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Thursday, Nov 19, 2026 (9 Jumada-al-Akhar 1448)); home page prayer table, Adhan and Iqamah columns, dated today; Jummah FIRST 11:45 AM and SECOND 01:00 PM | checked by a person on 2026-11-26 (batch4): fajr 06:00, asr 14:11 | re-read OK on 2026-11-27",
-   "updatedAt": "01:13"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, asr move with the call to prayer (dated rows to 10 Dec)",
+   "updatedAt": "12:52",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:02",
+     "asr": "14:11"
+    },
+    "2026-11-29": {
+     "fajr": "06:03",
+     "asr": "14:10"
+    },
+    "2026-11-30": {
+     "fajr": "06:04",
+     "asr": "14:10"
+    },
+    "2026-12-01": {
+     "fajr": "06:05",
+     "asr": "14:10"
+    },
+    "2026-12-02": {
+     "fajr": "06:06",
+     "asr": "14:09"
+    },
+    "2026-12-03": {
+     "fajr": "06:07",
+     "asr": "14:09"
+    },
+    "2026-12-04": {
+     "fajr": "06:08",
+     "asr": "14:09"
+    },
+    "2026-12-05": {
+     "fajr": "06:09",
+     "asr": "14:09"
+    },
+    "2026-12-06": {
+     "fajr": "06:10",
+     "asr": "14:09"
+    },
+    "2026-12-07": {
+     "fajr": "06:11",
+     "asr": "14:08"
+    },
+    "2026-12-08": {
+     "fajr": "06:12",
+     "asr": "14:08"
+    },
+    "2026-12-09": {
+     "fajr": "06:13",
+     "asr": "14:08"
+    },
+    "2026-12-10": {
+     "fajr": "06:13",
+     "asr": "14:08"
+    }
+   }
   },
   "masjid-alfalah-markaz-el-islam-al-flah-mosque": {
    "status": "auto",
@@ -13642,11 +13707,11 @@
    "status": "auto",
    "source": "https://masjidbox.com/horaires-de-priere/ccmb",
    "updated": "2026-11-27",
-   "expires": "2026-11-30",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:00"
+     "v": "06:01"
     },
     "dhuhr": {
      "t": "fixed",
@@ -13654,7 +13719,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:04"
+     "v": "14:03"
     },
     "maghrib": {
      "t": "offset",
@@ -13662,15 +13727,82 @@
     },
     "isha": {
      "t": "fixed",
-     "v": "17:57"
+     "v": "17:56"
     }
    },
    "jummah": [
     "12:15",
     "13:00"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Jeudi 19 Novembre 2026 (9 Jumada al-akhira 1448), live board); Masjidbox board of the masjid: big number = iqama, small 'ADHAN' number = start; Joumouaa 1 is listed at 13:00 and Joumouaa 2 at 12:15 (order as labelled on the board); iqama is 5-20 min after adhan for every prayer (looks like fixed offsets) | checked by a person on 2026-11-26 (batch2-3): isha 17:57, fajr 06:00, asr 14:04 | re-read OK on 2026-11-27",
-   "updatedAt": "01:30"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, asr, isha move with the call to prayer (dated rows to 10 Dec); Dhuhr was not shown (Friday)",
+   "updatedAt": "12:52",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:02",
+     "asr": "14:03",
+     "isha": "17:56"
+    },
+    "2026-11-29": {
+     "fajr": "06:03",
+     "asr": "14:02",
+     "isha": "17:55"
+    },
+    "2026-11-30": {
+     "fajr": "06:04",
+     "asr": "14:02",
+     "isha": "17:55"
+    },
+    "2026-12-01": {
+     "fajr": "06:05",
+     "asr": "14:02",
+     "isha": "17:55"
+    },
+    "2026-12-02": {
+     "fajr": "06:06",
+     "asr": "14:01",
+     "isha": "17:54"
+    },
+    "2026-12-03": {
+     "fajr": "06:07",
+     "asr": "14:01",
+     "isha": "17:54"
+    },
+    "2026-12-04": {
+     "fajr": "06:08",
+     "asr": "14:01",
+     "isha": "17:54"
+    },
+    "2026-12-05": {
+     "fajr": "06:09",
+     "asr": "14:01",
+     "isha": "17:54"
+    },
+    "2026-12-06": {
+     "fajr": "06:10",
+     "asr": "14:01",
+     "isha": "17:54"
+    },
+    "2026-12-07": {
+     "fajr": "06:11",
+     "asr": "14:00",
+     "isha": "17:54"
+    },
+    "2026-12-08": {
+     "fajr": "06:12",
+     "asr": "14:00",
+     "isha": "17:54"
+    },
+    "2026-12-09": {
+     "fajr": "06:13",
+     "asr": "14:00",
+     "isha": "17:54"
+    },
+    "2026-12-10": {
+     "fajr": "06:13",
+     "asr": "14:00",
+     "isha": "17:54"
+    }
+   }
   },
   "centre-communautaire-musulman-de-varennes-ccmv-c": {
    "status": "auto",
@@ -13738,11 +13870,11 @@
    "status": "auto",
    "source": "https://himo-tech.github.io/cmam-prayer-time/",
    "updated": "2026-11-27",
-   "expires": "2026-11-30",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "06:00"
+     "v": "06:02"
     },
     "dhuhr": {
      "t": "fixed",
@@ -13750,7 +13882,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:12"
+     "v": "14:11"
     },
     "isha": {
      "t": "fixed",
@@ -13761,8 +13893,62 @@
     "12:15",
     "13:10"
    ],
-   "note": "Read by eye on 20 Nov 2026 from https://himo-tech.github.io/cmam-prayer-time/ | checked by a person on 2026-11-26 (batch4): fajr 06:00, asr 14:12 | re-read OK on 2026-11-27",
-   "updatedAt": "01:13"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, asr move with the call to prayer (dated rows to 10 Dec)",
+   "updatedAt": "12:52",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:03",
+     "asr": "14:11"
+    },
+    "2026-11-29": {
+     "fajr": "06:04",
+     "asr": "14:10"
+    },
+    "2026-11-30": {
+     "fajr": "06:05",
+     "asr": "14:10"
+    },
+    "2026-12-01": {
+     "fajr": "06:06",
+     "asr": "14:10"
+    },
+    "2026-12-02": {
+     "fajr": "06:07",
+     "asr": "14:09"
+    },
+    "2026-12-03": {
+     "fajr": "06:08",
+     "asr": "14:09"
+    },
+    "2026-12-04": {
+     "fajr": "06:09",
+     "asr": "14:09"
+    },
+    "2026-12-05": {
+     "fajr": "06:10",
+     "asr": "14:09"
+    },
+    "2026-12-06": {
+     "fajr": "06:11",
+     "asr": "14:09"
+    },
+    "2026-12-07": {
+     "fajr": "06:12",
+     "asr": "14:09"
+    },
+    "2026-12-08": {
+     "fajr": "06:13",
+     "asr": "14:08"
+    },
+    "2026-12-09": {
+     "fajr": "06:14",
+     "asr": "14:08"
+    },
+    "2026-12-10": {
+     "fajr": "06:14",
+     "asr": "14:08"
+    }
+   }
   },
   "mosquee-al-firdaws-centre-culturel-musulman-de-t": {
    "status": "unknown"
@@ -14121,12 +14307,12 @@
   "centre-culturel-al-rahma-portneuf-cciq": {
    "status": "auto",
    "source": "https://mosqueprayertimes.com/cciq6",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "05:57"
+     "v": "06:06"
     },
     "dhuhr": {
      "t": "fixed",
@@ -14134,7 +14320,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:18"
+     "v": "14:14"
     },
     "maghrib": {
      "t": "offset",
@@ -14142,13 +14328,81 @@
     },
     "isha": {
      "t": "fixed",
-     "v": "17:48"
+     "v": "17:43"
     }
    },
    "jummah": [
     "13:10"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Thursday 19 November 2026 (09 Jumaada II 1448), live board); Isha iqama 17:48 is only 10 minutes after Isha start 17:38 (shown on the main panel too: S; Shurooq 6:55"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, asr, isha move with the call to prayer (dated rows to 10 Dec); Dhuhr was not shown (Friday)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:07",
+     "asr": "14:14",
+     "isha": "17:43"
+    },
+    "2026-11-29": {
+     "fajr": "06:08",
+     "asr": "14:13",
+     "isha": "17:42"
+    },
+    "2026-11-30": {
+     "fajr": "06:09",
+     "asr": "14:13",
+     "isha": "17:42"
+    },
+    "2026-12-01": {
+     "fajr": "06:10",
+     "asr": "14:12",
+     "isha": "17:41"
+    },
+    "2026-12-02": {
+     "fajr": "06:11",
+     "asr": "14:12",
+     "isha": "17:41"
+    },
+    "2026-12-03": {
+     "fajr": "06:12",
+     "asr": "14:12",
+     "isha": "17:41"
+    },
+    "2026-12-04": {
+     "fajr": "06:13",
+     "asr": "14:12",
+     "isha": "17:41"
+    },
+    "2026-12-05": {
+     "fajr": "06:14",
+     "asr": "14:11",
+     "isha": "17:41"
+    },
+    "2026-12-06": {
+     "fajr": "06:15",
+     "asr": "14:11",
+     "isha": "17:40"
+    },
+    "2026-12-07": {
+     "fajr": "06:16",
+     "asr": "14:11",
+     "isha": "17:40"
+    },
+    "2026-12-08": {
+     "fajr": "06:17",
+     "asr": "14:11",
+     "isha": "17:40"
+    },
+    "2026-12-09": {
+     "fajr": "06:18",
+     "asr": "14:11",
+     "isha": "17:40"
+    },
+    "2026-12-10": {
+     "fajr": "06:19",
+     "asr": "14:11",
+     "isha": "17:40"
+    }
+   },
+   "updatedAt": "12:52"
   },
   "mosquee-a-rahmane-association-culturelle-islamiq": {
    "status": "auto",
@@ -14385,12 +14639,12 @@
   "mosquee-granby-centre-culturel-islamique-de-gran": {
    "status": "auto",
    "source": "https://moonode.tv/glassy/DINSCREEN-447535-GRANBY-CANADA-J2G3B6",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "05:50"
+     "v": "05:59"
     },
     "dhuhr": {
      "t": "fixed",
@@ -14398,7 +14652,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "14:26"
+     "v": "14:23"
     },
     "maghrib": {
      "t": "offset",
@@ -14413,25 +14667,80 @@
     "12:15",
     "13:15"
    ],
-   "note": "Read by eye on 19 Nov from their own page (board shows 19 \u2022 11 \u2022 2026 (09 Jumada al-akhirah 1448), live); Moonode board: top row = adhan, bottom row = iqama; home page header shows 'Sunrise At: 5:55 PM / Sunset At: 3:17 AM' (placeholder junk, not u; Shuruq 06:55"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, asr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:00",
+     "asr": "14:23"
+    },
+    "2026-11-29": {
+     "fajr": "06:01",
+     "asr": "14:22"
+    },
+    "2026-11-30": {
+     "fajr": "06:02",
+     "asr": "14:22"
+    },
+    "2026-12-01": {
+     "fajr": "06:03",
+     "asr": "14:22"
+    },
+    "2026-12-02": {
+     "fajr": "06:04",
+     "asr": "14:21"
+    },
+    "2026-12-03": {
+     "fajr": "06:05",
+     "asr": "14:21"
+    },
+    "2026-12-04": {
+     "fajr": "06:06",
+     "asr": "14:21"
+    },
+    "2026-12-05": {
+     "fajr": "06:07",
+     "asr": "14:21"
+    },
+    "2026-12-06": {
+     "fajr": "06:08",
+     "asr": "14:21"
+    },
+    "2026-12-07": {
+     "fajr": "06:09",
+     "asr": "14:21"
+    },
+    "2026-12-08": {
+     "fajr": "06:10",
+     "asr": "14:20"
+    },
+    "2026-12-09": {
+     "fajr": "06:11",
+     "asr": "14:20"
+    },
+    "2026-12-10": {
+     "fajr": "06:11",
+     "asr": "14:20"
+    }
+   },
+   "updatedAt": "12:52"
   },
   "centre-islamique-de-drummondville": {
    "status": "auto",
    "source": "https://moonode.tv/glassy/DINSCREEN-113221-DRUMMONDVILLE-CANADA-J2C0J8",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "05:59"
+     "v": "06:08"
     },
     "dhuhr": {
      "t": "fixed",
-     "v": "11:50"
+     "v": "11:53"
     },
     "asr": {
      "t": "fixed",
-     "v": "14:10"
+     "v": "14:06"
     },
     "maghrib": {
      "t": "offset",
@@ -14445,7 +14754,75 @@
    "jummah": [
     "12:30"
    ],
-   "note": "Read by eye on 19 Nov from their own page (board shows 19 \u2022 11 \u2022 2026 (09 Jumada al-akhira 1448), live ); Moonode board: top row = adhan, bottom row = iqama; Shuruq 06:56; the site's home page itself shows only the embedded board; its own text has no times"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr, dhuhr, asr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "06:09",
+     "dhuhr": "11:53",
+     "asr": "14:06"
+    },
+    "2026-11-29": {
+     "fajr": "06:10",
+     "dhuhr": "11:54",
+     "asr": "14:05"
+    },
+    "2026-11-30": {
+     "fajr": "06:11",
+     "dhuhr": "11:54",
+     "asr": "14:05"
+    },
+    "2026-12-01": {
+     "fajr": "06:12",
+     "dhuhr": "11:54",
+     "asr": "14:05"
+    },
+    "2026-12-02": {
+     "fajr": "06:13",
+     "dhuhr": "11:55",
+     "asr": "14:04"
+    },
+    "2026-12-03": {
+     "fajr": "06:14",
+     "dhuhr": "11:55",
+     "asr": "14:04"
+    },
+    "2026-12-04": {
+     "fajr": "06:15",
+     "dhuhr": "11:56",
+     "asr": "14:04"
+    },
+    "2026-12-05": {
+     "fajr": "06:16",
+     "dhuhr": "11:56",
+     "asr": "14:04"
+    },
+    "2026-12-06": {
+     "fajr": "06:17",
+     "dhuhr": "11:56",
+     "asr": "14:03"
+    },
+    "2026-12-07": {
+     "fajr": "06:18",
+     "dhuhr": "11:57",
+     "asr": "14:03"
+    },
+    "2026-12-08": {
+     "fajr": "06:19",
+     "dhuhr": "11:57",
+     "asr": "14:03"
+    },
+    "2026-12-09": {
+     "fajr": "06:20",
+     "dhuhr": "11:58",
+     "asr": "14:03"
+    },
+    "2026-12-10": {
+     "fajr": "06:20",
+     "dhuhr": "11:58",
+     "asr": "14:03"
+    }
+   },
+   "updatedAt": "12:52"
   },
   "centre-communautaire-musulman-de-drummondville-c": {
    "status": "auto",
@@ -14800,12 +15177,12 @@
   "markaz-ul-islam": {
    "status": "auto",
    "source": "https://markaz.ca/prayer-times/",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "07:20"
+     "v": "07:30"
     },
     "dhuhr": {
      "t": "fixed",
@@ -14828,8 +15205,8 @@
     "13:50",
     "14:30"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Thursday, November 19, 2026 (9 Jumada Al-Thani 1448 AH)); Jumu'ah conflict on the same page: live board says 1st Jumu'ah 1:50 PM and 2nd Jumu'ah 2:3; Page also has a monthly calendar for November 2026 and a 2026 PDF (not opened); Fajr iqama later than usual range; Alberta on daylight time (UTC-6) | checked by a person on 2026-11-26 (batch2-3): fajr 07:20, asr 16:00, isha 19:45",
-   "updatedAt": "16:47"
+   "note": "confirmed 2026-11-27 from the owner's screenshot",
+   "updatedAt": "12:52"
   },
   "alfalah-islamic-centre-alfalah-center-south": {
    "status": "auto",
@@ -15531,12 +15908,12 @@
   "islamic-information-society-of-calgary-downtown-": {
    "status": "auto",
    "source": "https://www.iisc.ca/iqamah",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "07:39"
+     "v": "07:47"
     },
     "dhuhr": {
      "t": "fixed",
@@ -15544,7 +15921,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "16:00"
+     "v": "15:45"
     },
     "maghrib": {
      "t": "offset",
@@ -15556,20 +15933,62 @@
     }
    },
    "jummah": [
-    "12:30",
-    "13:30"
+    "13:00",
+    "14:00"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Thursday, November 19, 2026 - Calgary ('prayer schedule upda); One IISC-wide iqamah board, not split by masjid; assumed it applies to the Downtown masjid; Jumu'ah card DOWNTOWN - Downtown Mosque, 1009 7 Ave SW: FIRST 12:30 PM, SECOND 1:30 PM; Third column is 'NEXT SUNDAY' (not tomorrow): Asr 3:45 PM and Maghrib 'Sunset+ 10 min' dif"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "07:48"
+    },
+    "2026-11-29": {
+     "fajr": "07:49"
+    },
+    "2026-11-30": {
+     "fajr": "07:51"
+    },
+    "2026-12-01": {
+     "fajr": "07:52"
+    },
+    "2026-12-02": {
+     "fajr": "07:53"
+    },
+    "2026-12-03": {
+     "fajr": "07:54"
+    },
+    "2026-12-04": {
+     "fajr": "07:55"
+    },
+    "2026-12-05": {
+     "fajr": "07:56"
+    },
+    "2026-12-06": {
+     "fajr": "07:57"
+    },
+    "2026-12-07": {
+     "fajr": "07:58"
+    },
+    "2026-12-08": {
+     "fajr": "07:59"
+    },
+    "2026-12-09": {
+     "fajr": "08:00"
+    },
+    "2026-12-10": {
+     "fajr": "08:01"
+    }
+   },
+   "updatedAt": "12:52"
   },
   "islamic-information-society-of-calgary-dar-al-hi": {
    "status": "auto",
    "source": "https://www.iisc.ca/iqamah",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "07:39"
+     "v": "07:47"
     },
     "dhuhr": {
      "t": "fixed",
@@ -15577,7 +15996,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "16:00"
+     "v": "15:45"
     },
     "maghrib": {
      "t": "offset",
@@ -15589,20 +16008,62 @@
     }
    },
    "jummah": [
-    "12:30",
-    "13:40"
+    "13:00",
+    "14:00"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Thursday, November 19, 2026 - Calgary ('prayer schedule upda); One IISC-wide iqamah board, not split by masjid; assumed it applies to Dar Al-Hijra (NE); Jumu'ah card NORTHEAST - Dar Al-Hijra - IISC NE, 4128 6 St NE: FIRST 12:30 PM, SECOND 1:40; Third column is 'NEXT SUNDAY' (not tomorrow): Asr 3:45 PM and Maghrib 'Sunset+ 10 min' dif"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "07:48"
+    },
+    "2026-11-29": {
+     "fajr": "07:49"
+    },
+    "2026-11-30": {
+     "fajr": "07:51"
+    },
+    "2026-12-01": {
+     "fajr": "07:52"
+    },
+    "2026-12-02": {
+     "fajr": "07:53"
+    },
+    "2026-12-03": {
+     "fajr": "07:54"
+    },
+    "2026-12-04": {
+     "fajr": "07:55"
+    },
+    "2026-12-05": {
+     "fajr": "07:56"
+    },
+    "2026-12-06": {
+     "fajr": "07:57"
+    },
+    "2026-12-07": {
+     "fajr": "07:58"
+    },
+    "2026-12-08": {
+     "fajr": "07:59"
+    },
+    "2026-12-09": {
+     "fajr": "08:00"
+    },
+    "2026-12-10": {
+     "fajr": "08:01"
+    }
+   },
+   "updatedAt": "12:52"
   },
   "islamic-information-society-of-calgary-fairview-": {
    "status": "auto",
    "source": "https://www.iisc.ca/iqamah",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "07:39"
+     "v": "07:47"
     },
     "dhuhr": {
      "t": "fixed",
@@ -15610,7 +16071,7 @@
     },
     "asr": {
      "t": "fixed",
-     "v": "16:00"
+     "v": "15:45"
     },
     "maghrib": {
      "t": "offset",
@@ -15624,7 +16085,49 @@
    "jummah": [
     "13:40"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Thursday, November 19, 2026 - Calgary ('prayer schedule upda); One IISC-wide iqamah board, not split by masjid; assumed it applies to Fairview Masjid (SE; Jumu'ah card SOUTHEAST - Fairview Mosque SE, 230 78 Ave SE: JUMU'AH 1:40 PM (single sittin; Home-page notice: 'The IISC has added a new location for Friday Prayer in the Fairview are"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "07:48"
+    },
+    "2026-11-29": {
+     "fajr": "07:49"
+    },
+    "2026-11-30": {
+     "fajr": "07:51"
+    },
+    "2026-12-01": {
+     "fajr": "07:52"
+    },
+    "2026-12-02": {
+     "fajr": "07:53"
+    },
+    "2026-12-03": {
+     "fajr": "07:54"
+    },
+    "2026-12-04": {
+     "fajr": "07:55"
+    },
+    "2026-12-05": {
+     "fajr": "07:56"
+    },
+    "2026-12-06": {
+     "fajr": "07:57"
+    },
+    "2026-12-07": {
+     "fajr": "07:58"
+    },
+    "2026-12-08": {
+     "fajr": "07:59"
+    },
+    "2026-12-09": {
+     "fajr": "08:00"
+    },
+    "2026-12-10": {
+     "fajr": "08:01"
+    }
+   },
+   "updatedAt": "12:52"
   },
   "green-dome-mosque-al-madinah-calgary-islamic-ass": {
    "status": "auto",
@@ -16793,8 +17296,8 @@
   "masjid-al-salaam-education-centre-bcma-burnaby-b": {
    "status": "auto",
    "source": "https://masjidbox.com/prayer-times/masjid-al-salaam-and-education-centre",
-   "updated": "2026-11-26",
-   "expires": "2026-12-10",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
@@ -16817,8 +17320,8 @@
     "12:30",
     "13:30"
    ],
-   "note": "Read by eye on 19 Nov from their own page (Thursday, November 19, 2026 (Masjidbox page and BCMA box)); Masjidbox and the BCMA box give the same iqama times; Jumu'ah differs: BCMA box 'Jummah 12:30 PM 1:30 PM' (used), Masjidbox 'JUMUAH 12:02 IQAMAH; Start times on this page (Fajr 5:37 AM, Maghrib 4:28 PM; Masjidbox clock reads 13:32 when | checked by eye on 2026-11-26 from a screenshot of their page: same times",
-   "updatedAt": "21:20"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; Dhuhr was not shown (Friday)",
+   "updatedAt": "12:52"
   },
   "masjid-at-taqwa-bcma-surrey-delta-branch": {
    "status": "auto",
@@ -17239,12 +17742,12 @@
   "coquitlam-islamic-center-al-hikmah-foundation": {
    "status": "auto",
    "source": "https://www.mosqueprayertimes.com/coquitlamislamiccentre",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "07:10"
+     "v": "07:20"
     },
     "dhuhr": {
      "t": "fixed",
@@ -17267,7 +17770,8 @@
     "13:35",
     "14:30"
    ],
-   "note": "Read by eye on 19 Nov from their own page (19 November 2026 (10 Jumaada II 1448 shown on the board)); Own site's text pages have no times; the times come from the mosqueprayertimes board embed; Each cell also shows tomorrow's value in tiny print (Fajr 6:56, Asr start 3:38, Maghrib 5:; Start times are on BC's current clock (UTC-7)"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; Dhuhr was not shown (Friday)",
+   "updatedAt": "12:52"
   },
   "baitul-mukarram-islamic-society-2": {
    "status": "auto",
@@ -18605,12 +19109,12 @@
   "brandon-islamic-centre-islamic-centre-of-brandon": {
    "status": "auto",
    "source": "https://bicmanitoba.ca/",
-   "updated": "2026-11-19",
-   "expires": "2026-12-03",
+   "updated": "2026-11-27",
+   "expires": "2026-12-11",
    "rules": {
     "fajr": {
      "t": "fixed",
-     "v": "07:31"
+     "v": "07:41"
     },
     "dhuhr": {
      "t": "fixed",
@@ -18633,7 +19137,49 @@
     "14:00",
     "15:00"
    ],
-   "note": "Read by eye on 19 Nov from their own page (November 19, 2026); Helper note said no times page; the home page has the daily table and the Friday Khutba li; Page note says Isha Iqamah follows a different rule only from April to September (not rele; Brandon sunrise 8:59 means daylight time (UTC-5)"
+   "note": "confirmed 2026-11-27 from the owner's screenshot; fajr move with the call to prayer (dated rows to 10 Dec)",
+   "days": {
+    "2026-11-28": {
+     "fajr": "07:42"
+    },
+    "2026-11-29": {
+     "fajr": "07:43"
+    },
+    "2026-11-30": {
+     "fajr": "07:45"
+    },
+    "2026-12-01": {
+     "fajr": "07:46"
+    },
+    "2026-12-02": {
+     "fajr": "07:47"
+    },
+    "2026-12-03": {
+     "fajr": "07:48"
+    },
+    "2026-12-04": {
+     "fajr": "07:49"
+    },
+    "2026-12-05": {
+     "fajr": "07:50"
+    },
+    "2026-12-06": {
+     "fajr": "07:51"
+    },
+    "2026-12-07": {
+     "fajr": "07:52"
+    },
+    "2026-12-08": {
+     "fajr": "07:53"
+    },
+    "2026-12-09": {
+     "fajr": "07:54"
+    },
+    "2026-12-10": {
+     "fajr": "07:55"
+    }
+   },
+   "updatedAt": "12:52"
   },
   "rahma-masjid": {
    "status": "unknown"
